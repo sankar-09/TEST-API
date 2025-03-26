@@ -7,7 +7,7 @@ exports.deleteUserById = exports.EditUser = exports.addUser = exports.getUserByI
 const db_1 = __importDefault(require("../db"));
 const logger_1 = __importDefault(require("../logger"));
 const getAllUsers = async (req) => {
-    const query = "SELECT * FROM USER";
+    const query = "SELECT * FROM TESTAPI";
     try {
         const [records] = await db_1.default.execute(query);
         (0, logger_1.default)("Fetch All Users", query, "Success", null, req);
@@ -20,7 +20,7 @@ const getAllUsers = async (req) => {
 };
 exports.getAllUsers = getAllUsers;
 const getUserById = async (id, req) => {
-    const query = "SELECT * FROM USER WHERE id = ?";
+    const query = "SELECT * FROM TESTAPI WHERE id = ?";
     try {
         const [record] = await db_1.default.execute(query, [id]);
         (0, logger_1.default)(`Fetch User ID ${id}`, query, "Success", null, req);
@@ -38,7 +38,7 @@ const getUserById = async (id, req) => {
 };
 exports.getUserById = getUserById;
 const addUser = async (obj, req) => {
-    const query = "INSERT INTO USER (fullname, email, mobile) VALUES (?, ?, ?)";
+    const query = "INSERT INTO TESTAPI (fullname, email, mobile) VALUES (?, ?, ?)";
     try {
         const [result] = await db_1.default.execute(query, [
             obj.fullname,
@@ -55,7 +55,7 @@ const addUser = async (obj, req) => {
 };
 exports.addUser = addUser;
 const EditUser = async (obj, id, req) => {
-    const query = "UPDATE USER SET fullname = ?, email = ?, mobile = ? WHERE id = ?";
+    const query = "UPDATE TESTAPI SET fullname = ?, email = ?, mobile = ? WHERE id = ?";
     try {
         const [result] = await db_1.default.execute(query, [
             obj.fullname,
@@ -73,7 +73,7 @@ const EditUser = async (obj, id, req) => {
 };
 exports.EditUser = EditUser;
 const deleteUserById = async (id, req) => {
-    const query = "DELETE FROM USER WHERE id = ?";
+    const query = "DELETE FROM TESTAPI WHERE id = ?";
     try {
         const [result] = await db_1.default.execute(query, [id]);
         (0, logger_1.default)(`Delete User ID ${id}`, query, "Success", null, req);

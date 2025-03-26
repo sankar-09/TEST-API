@@ -8,7 +8,7 @@ interface QueryResult {
 }
 
 export const getAllUsers = async (req?: Request) => {
-  const query = "SELECT * FROM USER";
+  const query = "SELECT * FROM TESTAPI";
   try {
     const [records] = await db.execute(query);
     logTransaction("Fetch All Users", query, "Success", null, req);
@@ -20,7 +20,7 @@ export const getAllUsers = async (req?: Request) => {
 };
 
 export const getUserById = async (id: string, req?: Request) => {
-  const query = "SELECT * FROM USER WHERE id = ?";
+  const query = "SELECT * FROM TESTAPI WHERE id = ?";
   try {
     const [record] = await db.execute(query, [id]);
     logTransaction(`Fetch User ID ${id}`, query, "Success", null, req);
@@ -39,7 +39,7 @@ export const addUser = async (
   obj: { fullname: string; email: string; mobile: string },
   req?: Request
 ): Promise<QueryResult> => {
-  const query = "INSERT INTO USER (fullname, email, mobile) VALUES (?, ?, ?)";
+  const query = "INSERT INTO TESTAPI (fullname, email, mobile) VALUES (?, ?, ?)";
   try {
     const [result] = await db.execute(query, [
       obj.fullname,
@@ -60,7 +60,7 @@ export const EditUser = async (
   req?: Request
 ): Promise<QueryResult> => {
   const query =
-    "UPDATE USER SET fullname = ?, email = ?, mobile = ? WHERE id = ?";
+    "UPDATE TESTAPI SET fullname = ?, email = ?, mobile = ? WHERE id = ?";
   try {
     const [result] = await db.execute(query, [
       obj.fullname,
@@ -80,7 +80,7 @@ export const deleteUserById = async (
   id: string,
   req?: Request
 ): Promise<QueryResult> => {
-  const query = "DELETE FROM USER WHERE id = ?";
+  const query = "DELETE FROM TESTAPI WHERE id = ?";
   try {
     const [result] = await db.execute(query, [id]);
     logTransaction(`Delete User ID ${id}`, query, "Success", null, req);
