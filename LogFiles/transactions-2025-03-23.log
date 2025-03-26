@@ -1,0 +1,12 @@
+
+=========================
+📅 Timestamp (UTC): 2025-03-23T17:48:33.053Z
+⏰ Local Time: 3/23/2025, 11:18:33 PM
+🔹 Action: Fetch All Users
+🔍 Query: SELECT * FROM USER
+✅ Status: Success
+📥 Received Port: 3000
+💻 Device ID: PostmanRuntime/7.43.2
+🌐 IP Address: Unknown (Localhost)
+✅ No Errors
+=========================
