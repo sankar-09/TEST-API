@@ -4,6 +4,7 @@ import os from "os";
 import httpProxy from "http-proxy";
 import bodyParser from "body-parser";
 import UserRoutes from "./controller/controller";
+import { VercelRequest, VercelResponse } from "@vercel/node";
 import db from "./db";
 
 const CONFIG = {
