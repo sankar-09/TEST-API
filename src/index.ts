@@ -58,7 +58,7 @@ if (cluster.isPrimary) {
   db.query("SELECT 1")
     .then(() => {
       console.log("DB Connected, Worker started on port", port);
-      app.listen(port, () => console.log("Server running on port", port));
+      // app.listen(port, () => console.log("Server running on port", port));
     })
     .catch((err) => {
       console.error("DB connection failed:", err);

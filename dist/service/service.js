@@ -38,9 +38,10 @@ const getUserById = async (id, req) => {
 };
 exports.getUserById = getUserById;
 const addUser = async (obj, req) => {
-    const query = "INSERT INTO TESTAPI (fullname, email, mobile) VALUES (?, ?, ?)";
+    const query = "INSERT INTO TESTAPI (id, fullname, email, mobile) VALUES (?, ?, ?, ?)";
     try {
         const [result] = await db_1.default.execute(query, [
+            obj.id,
             obj.fullname,
             obj.email,
             obj.mobile,

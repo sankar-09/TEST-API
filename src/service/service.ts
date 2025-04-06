@@ -36,12 +36,13 @@ export const getUserById = async (id: string, req?: Request) => {
 };
 
 export const addUser = async (
-  obj: { fullname: string; email: string; mobile: string },
+  obj: {id: string; fullname: string; email: string; mobile: string },
   req?: Request
 ): Promise<QueryResult> => {
-  const query = "INSERT INTO TESTAPI (fullname, email, mobile) VALUES (?, ?, ?)";
+  const query = "INSERT INTO TESTAPI (id, fullname, email, mobile) VALUES (?, ?, ?, ?)";
   try {
     const [result] = await db.execute(query, [
+      obj.id,
       obj.fullname,
       obj.email,
       obj.mobile,
