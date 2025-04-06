@@ -13,8 +13,27 @@ const CONFIG = {
     basePort: 3000,
     numberOfWorkers: 50,
 };
-const activePorts = new Set();
-if (cluster_1.default.isPrimary) {
+let vercelHandler = (req, res) => {
+    res.status(404).send("Not available");
+};
+if (process.env.VERCEL) {
+    // ✅ For Vercel deployment (no clustering or manual port listening)
+    const app = (0, express_1.default)();
+    app.use(body_parser_1.default.json());
+    app.use("/api/user", controller_1.default);
+    db_1.default.query("SELECT 1")
+        .then(() => {
+        console.log("✅ DB Connected on Vercel");
+    })
+        .catch((err) => {
+        console.error("❌ DB connection failed on Vercel:", err);
+    });
+    vercelHandler = (req, res) => {
+        app(req, res);
+    };
+}
+else if (cluster_1.default.isPrimary) {
+    // ✅ Load balancer for local development
     console.log("Primary process is running");
     const proxy = http_proxy_1.default.createProxyServer();
     const app = (0, express_1.default)();
@@ -24,7 +43,6 @@ if (cluster_1.default.isPrimary) {
         const port = CONFIG.basePort + i;
         workerPorts.push(port);
         cluster_1.default.fork({ PORT: port });
-        activePorts.add(port);
         console.log("Worker started on port", port);
     }
     app.all("*", (req, res) => {
@@ -37,19 +55,16 @@ if (cluster_1.default.isPrimary) {
         console.log("Worker died, restarting...");
         cluster_1.default.fork();
     });
-    console.log("Active Ports:", [...activePorts].join(", "));
 }
 else {
+    // ✅ Worker logic (local)
     const app = (0, express_1.default)();
     const port = Number(process.env.PORT) || 3000;
     app.use(body_parser_1.default.json());
     app.use("/api/user", controller_1.default);
-    app.get("/debug", (_, res) => {
-        res.json({ message: "Debug info", activePorts: [...activePorts] });
-    });
     db_1.default.query("SELECT 1")
         .then(() => {
-        console.log("DB Connected, Worker started on port", port);
+        console.log("DB Connected, Worker running on port", port);
         app.listen(port, () => console.log("Server running on port", port));
     })
         .catch((err) => {
@@ -57,3 +72,5 @@ else {
         process.exit(1);
     });
 }
+// ✅ Required by Vercel
+exports.default = vercelHandler;
