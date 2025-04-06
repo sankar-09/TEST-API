@@ -21,15 +21,15 @@
     "http-proxy": "^1.18.1",
     "mysql2": "^3.13.0",
     "os": "^0.1.2",
-    "user-agent": "^1.0.4"
+    "user-agent": "^1.0.4",
+    "typescript": "^5.8.2"
   },
   "devDependencies": {
     "@types/body-parser": "^1.19.5",
     "@types/express": "^5.0.0",
     "@types/geoip-lite": "^1.4.4",
     "@types/http-proxy": "^1.17.16",
-    "@types/node": "^22.13.10",
-    "typescript": "^5.8.2"
+    "@types/node": "^22.13.10"
   },
   "description": ""
 }
