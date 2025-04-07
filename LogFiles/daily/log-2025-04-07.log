@@ -1,0 +1,270 @@
+[2025-04-07T17:33:01.459Z] LOG: 🧠 Primary process started
+[2025-04-07T17:33:01.536Z] LOG: 🧵 Worker forked for port 3000
+[2025-04-07T17:33:01.546Z] LOG: 🧵 Worker forked for port 3001
+[2025-04-07T17:33:01.559Z] LOG: 🧵 Worker forked for port 3002
+[2025-04-07T17:33:01.569Z] LOG: 🧵 Worker forked for port 3003
+[2025-04-07T17:33:01.585Z] LOG: 🧵 Worker forked for port 3004
+[2025-04-07T17:33:01.595Z] LOG: 🧵 Worker forked for port 3005
+[2025-04-07T17:33:01.610Z] LOG: 🧵 Worker forked for port 3006
+[2025-04-07T17:33:01.618Z] LOG: 🧵 Worker forked for port 3007
+[2025-04-07T17:33:01.744Z] LOG: 🧵 Worker forked for port 3008
+[2025-04-07T17:33:01.760Z] LOG: 🧵 Worker forked for port 3009
+[2025-04-07T17:33:01.788Z] LOG: 🧵 Worker forked for port 3010
+[2025-04-07T17:33:01.852Z] LOG: 🧵 Worker forked for port 3011
+[2025-04-07T17:33:02.013Z] LOG: 🧵 Worker forked for port 3012
+[2025-04-07T17:33:02.027Z] LOG: 🧵 Worker forked for port 3013
+[2025-04-07T17:33:02.042Z] LOG: 🧵 Worker forked for port 3014
+[2025-04-07T17:33:02.072Z] LOG: 🧵 Worker forked for port 3015
+[2025-04-07T17:33:02.189Z] LOG: 🧵 Worker forked for port 3016
+[2025-04-07T17:33:02.287Z] LOG: 🧵 Worker forked for port 3017
+[2025-04-07T17:33:02.317Z] LOG: 🧵 Worker forked for port 3018
+[2025-04-07T17:33:02.500Z] LOG: 🧵 Worker forked for port 3019
+[2025-04-07T17:33:02.522Z] LOG: 🧵 Worker forked for port 3020
+[2025-04-07T17:33:02.802Z] LOG: 🧵 Worker forked for port 3021
+[2025-04-07T17:33:03.087Z] LOG: 🧵 Worker forked for port 3022
+[2025-04-07T17:33:03.116Z] LOG: 🧵 Worker forked for port 3023
+[2025-04-07T17:33:03.145Z] LOG: 🧵 Worker forked for port 3024
+[2025-04-07T17:33:03.368Z] LOG: 🧵 Worker forked for port 3025
+[2025-04-07T17:33:03.626Z] LOG: 🧵 Worker forked for port 3026
+[2025-04-07T17:33:03.983Z] LOG: 🧵 Worker forked for port 3027
+[2025-04-07T17:33:03.993Z] LOG: 🧵 Worker forked for port 3028
+[2025-04-07T17:33:04.131Z] LOG: 🧵 Worker forked for port 3029
+[2025-04-07T17:33:04.140Z] LOG: 🧵 Worker forked for port 3030
+[2025-04-07T17:33:04.150Z] LOG: 🧵 Worker forked for port 3031
+[2025-04-07T17:33:04.158Z] LOG: 🧵 Worker forked for port 3032
+[2025-04-07T17:33:04.322Z] LOG: 🧵 Worker forked for port 3033
+[2025-04-07T17:33:04.331Z] LOG: 🧵 Worker forked for port 3034
+[2025-04-07T17:33:04.338Z] LOG: 🧵 Worker forked for port 3035
+[2025-04-07T17:33:04.347Z] LOG: 🧵 Worker forked for port 3036
+[2025-04-07T17:33:04.368Z] LOG: 🧵 Worker forked for port 3037
+[2025-04-07T17:33:04.786Z] LOG: 🧵 Worker forked for port 3038
+[2025-04-07T17:33:04.796Z] LOG: 🧵 Worker forked for port 3039
+[2025-04-07T17:33:04.920Z] LOG: 🧵 Worker forked for port 3040
+[2025-04-07T17:33:04.930Z] LOG: 🧵 Worker forked for port 3041
+[2025-04-07T17:33:04.945Z] LOG: 🧵 Worker forked for port 3042
+[2025-04-07T17:33:05.112Z] LOG: 🧵 Worker forked for port 3043
+[2025-04-07T17:33:05.651Z] LOG: 🧵 Worker forked for port 3044
+[2025-04-07T17:33:05.659Z] LOG: 🧵 Worker forked for port 3045
+[2025-04-07T17:33:06.053Z] LOG: 🧵 Worker forked for port 3046
+[2025-04-07T17:33:06.062Z] LOG: 🧵 Worker forked for port 3047
+[2025-04-07T17:33:06.071Z] LOG: 🧵 Worker forked for port 3048
+[2025-04-07T17:33:06.079Z] LOG: 🧵 Worker forked for port 3049
+[2025-04-07T17:33:06.087Z] LOG: 🔁 Load balancer running on port 8000
+[2025-04-07T17:33:06.088Z] LOG: ✅ Active worker ports: 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049
+[2025-04-07T17:33:06.283Z] LOG: ✅ DB Connected. Worker ready on port 3001
+[2025-04-07T17:33:06.283Z] LOG: ✅ DB Connected. Worker ready on port 3008
+[2025-04-07T17:33:06.291Z] LOG: 🚀 Server running on port 3001
+[2025-04-07T17:33:06.290Z] LOG: 🚀 Server running on port 3008
+[2025-04-07T17:33:06.442Z] LOG: ✅ DB Connected. Worker ready on port 3002
+[2025-04-07T17:33:06.451Z] LOG: 🚀 Server running on port 3002
+[2025-04-07T17:33:06.758Z] LOG: ✅ DB Connected. Worker ready on port 3009
+[2025-04-07T17:33:06.766Z] LOG: 🚀 Server running on port 3009
+[2025-04-07T17:33:06.796Z] LOG: ✅ DB Connected. Worker ready on port 3005
+[2025-04-07T17:33:06.804Z] LOG: 🚀 Server running on port 3005
+[2025-04-07T17:33:07.179Z] LOG: ✅ DB Connected. Worker ready on port 3003
+[2025-04-07T17:33:07.187Z] LOG: 🚀 Server running on port 3003
+[2025-04-07T17:33:07.199Z] LOG: ✅ DB Connected. Worker ready on port 3004
+[2025-04-07T17:33:07.205Z] LOG: 🚀 Server running on port 3004
+[2025-04-07T17:33:07.558Z] LOG: ✅ DB Connected. Worker ready on port 3010
+[2025-04-07T17:33:07.737Z] LOG: ✅ DB Connected. Worker ready on port 3000
+[2025-04-07T17:33:07.743Z] LOG: ✅ DB Connected. Worker ready on port 3006
+[2025-04-07T17:33:08.363Z] LOG: 🚀 Server running on port 3010
+[2025-04-07T17:33:08.479Z] LOG: ✅ DB Connected. Worker ready on port 3012
+[2025-04-07T17:33:08.486Z] LOG: 🚀 Server running on port 3012
+[2025-04-07T17:33:08.590Z] LOG: 🚀 Server running on port 3006
+[2025-04-07T17:33:09.585Z] LOG: 🚀 Server running on port 3000
+[2025-04-07T17:33:10.367Z] LOG: ✅ DB Connected. Worker ready on port 3007
+[2025-04-07T17:33:10.375Z] LOG: 🚀 Server running on port 3007
+[2025-04-07T17:33:10.638Z] LOG: ✅ DB Connected. Worker ready on port 3013
+[2025-04-07T17:33:10.645Z] LOG: 🚀 Server running on port 3013
+[2025-04-07T17:33:10.918Z] LOG: ✅ DB Connected. Worker ready on port 3018
+[2025-04-07T17:33:10.933Z] LOG: 🚀 Server running on port 3018
+[2025-04-07T17:33:11.190Z] LOG: ✅ DB Connected. Worker ready on port 3022
+[2025-04-07T17:33:11.197Z] LOG: 🚀 Server running on port 3022
+[2025-04-07T17:33:12.275Z] LOG: ✅ DB Connected. Worker ready on port 3027
+[2025-04-07T17:33:12.283Z] LOG: 🚀 Server running on port 3027
+[2025-04-07T17:33:12.300Z] LOG: ✅ DB Connected. Worker ready on port 3017
+[2025-04-07T17:33:12.307Z] LOG: 🚀 Server running on port 3017
+[2025-04-07T17:33:12.338Z] LOG: ✅ DB Connected. Worker ready on port 3011
+[2025-04-07T17:33:12.346Z] LOG: 🚀 Server running on port 3011
+[2025-04-07T17:33:12.498Z] LOG: ✅ DB Connected. Worker ready on port 3014
+[2025-04-07T17:33:12.505Z] LOG: 🚀 Server running on port 3014
+[2025-04-07T17:33:12.550Z] LOG: ✅ DB Connected. Worker ready on port 3015
+[2025-04-07T17:33:12.557Z] LOG: 🚀 Server running on port 3015
+[2025-04-07T17:33:12.651Z] LOG: ✅ DB Connected. Worker ready on port 3021
+[2025-04-07T17:33:12.658Z] LOG: 🚀 Server running on port 3021
+[2025-04-07T17:33:12.777Z] LOG: ✅ DB Connected. Worker ready on port 3016
+[2025-04-07T17:33:12.785Z] LOG: 🚀 Server running on port 3016
+[2025-04-07T17:33:17.583Z] LOG: ✅ DB Connected. Worker ready on port 3019
+[2025-04-07T17:33:17.587Z] LOG: ✅ DB Connected. Worker ready on port 3036
+[2025-04-07T17:33:17.592Z] LOG: 🚀 Server running on port 3019
+[2025-04-07T17:33:17.596Z] LOG: ✅ DB Connected. Worker ready on port 3031
+[2025-04-07T17:33:17.599Z] LOG: 🚀 Server running on port 3036
+[2025-04-07T17:33:17.604Z] LOG: 🚀 Server running on port 3031
+[2025-04-07T17:33:17.758Z] LOG: ✅ DB Connected. Worker ready on port 3020
+[2025-04-07T17:33:17.767Z] LOG: 🚀 Server running on port 3020
+[2025-04-07T17:33:18.619Z] LOG: ✅ DB Connected. Worker ready on port 3044
+[2025-04-07T17:33:18.627Z] LOG: 🚀 Server running on port 3044
+[2025-04-07T17:33:18.631Z] LOG: ✅ DB Connected. Worker ready on port 3035
+[2025-04-07T17:33:18.639Z] LOG: 🚀 Server running on port 3035
+[2025-04-07T17:33:18.785Z] LOG: ✅ DB Connected. Worker ready on port 3038
+[2025-04-07T17:33:18.792Z] LOG: 🚀 Server running on port 3038
+[2025-04-07T17:33:25.205Z] LOG: ✅ DB Connected. Worker ready on port 3048
+[2025-04-07T17:33:25.214Z] LOG: 🚀 Server running on port 3048
+[2025-04-07T17:33:25.217Z] LOG: ✅ DB Connected. Worker ready on port 3026
+[2025-04-07T17:33:25.224Z] LOG: ✅ DB Connected. Worker ready on port 3023
+[2025-04-07T17:33:25.225Z] LOG: ✅ DB Connected. Worker ready on port 3042
+[2025-04-07T17:33:25.231Z] LOG: ✅ DB Connected. Worker ready on port 3025
+[2025-04-07T17:33:25.238Z] LOG: ✅ DB Connected. Worker ready on port 3024
+[2025-04-07T17:33:25.237Z] LOG: ✅ DB Connected. Worker ready on port 3049
+[2025-04-07T17:33:25.233Z] LOG: ✅ DB Connected. Worker ready on port 3043
+[2025-04-07T17:33:25.244Z] LOG: 🚀 Server running on port 3023
+[2025-04-07T17:33:25.246Z] LOG: ✅ DB Connected. Worker ready on port 3037
+[2025-04-07T17:33:25.275Z] LOG: 🚀 Server running on port 3025
+[2025-04-07T17:33:25.254Z] LOG: ✅ DB Connected. Worker ready on port 3028
+[2025-04-07T17:33:25.276Z] LOG: ✅ DB Connected. Worker ready on port 3030
+[2025-04-07T17:33:25.260Z] LOG: ✅ DB Connected. Worker ready on port 3033
+[2025-04-07T17:33:25.274Z] LOG: 🚀 Server running on port 3024
+[2025-04-07T17:33:25.275Z] LOG: 🚀 Server running on port 3049
+[2025-04-07T17:33:25.273Z] LOG: 🚀 Server running on port 3037
+[2025-04-07T17:33:25.273Z] LOG: 🚀 Server running on port 3043
+[2025-04-07T17:33:25.288Z] LOG: 🚀 Server running on port 3033
+[2025-04-07T17:33:25.289Z] LOG: 🚀 Server running on port 3030
+[2025-04-07T17:33:25.226Z] LOG: 🚀 Server running on port 3026
+[2025-04-07T17:33:25.291Z] LOG: 🚀 Server running on port 3028
+[2025-04-07T17:33:25.337Z] LOG: ✅ DB Connected. Worker ready on port 3039
+[2025-04-07T17:33:25.350Z] LOG: 🚀 Server running on port 3039
+[2025-04-07T17:33:25.351Z] LOG: 🚀 Server running on port 3042
+[2025-04-07T17:33:25.508Z] LOG: ✅ DB Connected. Worker ready on port 3032
+[2025-04-07T17:33:25.517Z] LOG: 🚀 Server running on port 3032
+[2025-04-07T17:33:27.161Z] LOG: ✅ DB Connected. Worker ready on port 3045
+[2025-04-07T17:33:27.171Z] LOG: 🚀 Server running on port 3045
+[2025-04-07T17:33:27.265Z] LOG: ✅ DB Connected. Worker ready on port 3034
+[2025-04-07T17:33:27.274Z] LOG: 🚀 Server running on port 3034
+[2025-04-07T17:33:28.940Z] LOG: ✅ DB Connected. Worker ready on port 3029
+[2025-04-07T17:33:28.949Z] LOG: 🚀 Server running on port 3029
+[2025-04-07T17:33:30.604Z] LOG: ✅ DB Connected. Worker ready on port 3040
+[2025-04-07T17:33:30.614Z] LOG: 🚀 Server running on port 3040
+[2025-04-07T17:33:31.020Z] LOG: ✅ DB Connected. Worker ready on port 3047
+[2025-04-07T17:33:31.030Z] LOG: 🚀 Server running on port 3047
+[2025-04-07T17:33:31.048Z] LOG: ✅ DB Connected. Worker ready on port 3041
+[2025-04-07T17:33:31.058Z] LOG: 🚀 Server running on port 3041
+[2025-04-07T17:33:31.181Z] LOG: ✅ DB Connected. Worker ready on port 3046
+[2025-04-07T17:33:31.189Z] LOG: 🚀 Server running on port 3046
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:48.035Z
+⏰ Local Time (IST): 7/4/2025, 11:03:48 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3000
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:49.928Z
+⏰ Local Time (IST): 7/4/2025, 11:03:49 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3001
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:51.184Z
+⏰ Local Time (IST): 7/4/2025, 11:03:51 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3002
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:52.107Z
+⏰ Local Time (IST): 7/4/2025, 11:03:52 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3003
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:52.737Z
+⏰ Local Time (IST): 7/4/2025, 11:03:52 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3004
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:53.388Z
+⏰ Local Time (IST): 7/4/2025, 11:03:53 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3005
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:53.941Z
+⏰ Local Time (IST): 7/4/2025, 11:03:53 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3006
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:55.683Z
+⏰ Local Time (IST): 7/4/2025, 11:03:55 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3007
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-07T17:33:56.706Z
+⏰ Local Time (IST): 7/4/2025, 11:03:56 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1 (Localhost)
+📍 Location: Unknown, Unknown
+📥 Port: 3008
+💻 Device ID: Thunder Client (https://www.thunderclient.com)
+✅ No Errors
+=========================

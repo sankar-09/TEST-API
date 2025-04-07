@@ -3,122 +3,109 @@ import path from "path";
 import geoip from "geoip-lite";
 import { Request } from "express";
 
-// Ensure log directory exists
-const logDirectory = path.join(process.cwd(), "LogFiles");
-if (!fs.existsSync(logDirectory)) {
-  fs.mkdirSync(logDirectory, { recursive: true });
+// Enable hourly logging
+const useHourlyLogs: boolean = false;
+
+const baseLogDir = path.join(process.cwd(), "LogFiles");
+
+// Ensure base directory exists
+if (!fs.existsSync(baseLogDir)) {
+  fs.mkdirSync(baseLogDir, { recursive: true });
 }
 
-// Toggle between daily and hourly logs
-const useHourlyLogs: boolean = false; // Set `true` for hourly logs, `false` for daily logs
-
-// Function to get the log file path
+// Create folder paths for daily and hourly logs
 const getLogFilePath = (): string => {
   const now = new Date();
-  const date = now.toISOString().split("T")[0]; // YYYY-MM-DD
-  const hour = now.getHours();
+  const date = now.toISOString().split("T")[0];
+  const hour = now.getHours().toString().padStart(2, "0");
+
+  const dailyDir = path.join(baseLogDir, "daily");
+  const hourlyDir = path.join(baseLogDir, "hourly");
+
+  if (!fs.existsSync(dailyDir)) fs.mkdirSync(dailyDir, { recursive: true });
+  if (!fs.existsSync(hourlyDir)) fs.mkdirSync(hourlyDir, { recursive: true });
+
   return useHourlyLogs
-    ? path.join(logDirectory, `transactions-${date}-${hour}.log`) // Hourly log file
-    : path.join(logDirectory, `transactions-${date}.log`); // Daily log file
+    ? path.join(hourlyDir, `log-${date}-${hour}.log`)
+    : path.join(dailyDir, `log-${date}.log`);
 };
 
-// Function to extract request details safely
 const getRequestDetails = (req?: Request) => {
-  if (!req || typeof req !== "object") {
-    return {
-      deviceId: "Unknown",
-      location: "Unknown",
-      port: "Unknown",
-      ip: "Unknown",
-    };
-  }
-
-  const headers = req.headers || {};
-  const connection = req.connection;
-  const socket = req.socket;
+  const headers = req?.headers || {};
+  const connection = req?.connection;
+  const socket = req?.socket;
 
   let ip =
-    headers["x-forwarded-for"]?.toString().split(",")[0] || // Gets real IP if behind a proxy
+    headers["x-forwarded-for"]?.toString().split(",")[0] ||
     connection?.remoteAddress ||
     socket?.remoteAddress ||
     "Unknown";
 
-  if (ip === "::1" || ip === "127.0.0.1") {
-    ip = "Unknown (Localhost)"; // Fix localhost IP issue
-  }
+  if (ip === "::1" || ip === "127.0.0.1") ip = "127.0.0.1 (Localhost)";
 
-  const location = geoip.lookup(ip) || { city: "Unknown", country: "Unknown" };
-  const port =
-    socket?.localPort ||
-    connection?.localPort ||
-    req.socket?.localPort ||
-    process.env.PORT ||
-    "Unknown";
+  const geo = geoip.lookup(ip || "") || { city: "Unknown", country: "Unknown" };
+  const location = `${geo.city}, ${geo.country}`;
+  const port = socket?.localPort || connection?.localPort || process.env.PORT || "Unknown";
   const deviceId = headers["user-agent"] || "Unknown Device";
 
-  return { deviceId, location, port, ip };
+  return { ip, location, port, deviceId };
 };
 
-// Function to log transactions
-const logTransaction = (
+function logTransaction(
   action: string,
   query: string,
-  status: string,
-  error: any = null,
+  status: "Success" | "Failed",
+  error: Error | string | null = null,
   req?: Request
-) => {
-  const { deviceId, location, port, ip } = getRequestDetails(req);
-  const logFilePath = getLogFilePath();
-
+): void {
+  const { ip, location, port, deviceId } = getRequestDetails(req);
   const now = new Date();
-  const isoTimestamp = now.toISOString(); // UTC format
-  const localTime = now.toLocaleString("en-US", { timeZone: "Asia/Kolkata" }); // Convert to local time
-  // 📍 Location: ${JSON.stringify(location)}
-  const logData = `
+  const isoTimestamp = now.toISOString();
+  const localTime = now.toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
+
+  const logFilePath = getLogFilePath();
+  const logContent = `
 =========================
 📅 Timestamp (UTC): ${isoTimestamp}
-⏰ Local Time: ${localTime}
+⏰ Local Time (IST): ${localTime}
 🔹 Action: ${action}
 🔍 Query: ${query}
 ✅ Status: ${status}
-📥 Received Port: ${port}
-💻 Device ID: ${deviceId}
 🌐 IP Address: ${ip}
-${error ? `❌ Error: ${error.stack || error.message}` : "✅ No Errors"}
+📍 Location: ${location}
+📥 Port: ${port}
+💻 Device ID: ${deviceId}
+${error ? `❌ Error: ${typeof error === "string" ? error : error.message}` : "✅ No Errors"}
 =========================\n`;
 
-  fs.appendFileSync(logFilePath, logData, "utf8");
-};
+  fs.appendFileSync(logFilePath, logContent, "utf8");
+}
 
-// Function to capture console logs and write to file
-const captureConsoleLogs = () => {
-  const originalConsoleLog = console.log;
-  const originalConsoleError = console.error;
+// Capture console logs into log files too
+function captureConsoleLogs(): void {
+  const originalLog = console.log;
+  const originalError = console.error;
 
-  const writeToLogFile = (message: string) => {
+  const writeToLogFile = (message: string, type: "LOG" | "ERROR" = "LOG") => {
     const logFilePath = getLogFilePath();
-    const logMessage = `[${new Date().toISOString()}] ${message}\n`;
+    const prefix = `[${new Date().toISOString()}] ${type}: `;
+    const logMessage = prefix + message + "\n";
     fs.appendFileSync(logFilePath, logMessage, "utf8");
   };
 
   console.log = (...args: any[]) => {
-    const message = args
-      .map((arg) => (typeof arg === "object" ? JSON.stringify(arg) : arg))
-      .join(" ");
-    writeToLogFile(message);
-    originalConsoleLog(...args);
+    const message = args.map(arg => typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)).join(" ");
+    writeToLogFile(message, "LOG");
+    originalLog(...args);
   };
 
   console.error = (...args: any[]) => {
-    const message = args
-      .map((arg) => (typeof arg === "object" ? JSON.stringify(arg) : arg))
-      .join(" ");
-    writeToLogFile(`ERROR: ${message}`);
-    originalConsoleError(...args);
+    const message = args.map(arg => typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)).join(" ");
+    writeToLogFile(message, "ERROR");
+    originalError(...args);
   };
-};
+}
 
-// Start capturing console logs
 captureConsoleLogs();
 
 export default logTransaction;

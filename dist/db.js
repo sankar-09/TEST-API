@@ -14,6 +14,7 @@ const myPool = promise_1.default.createPool({
     password: "Locate@2025",
     database: "u303037170_projectadmin",
     waitForConnections: true,
+    namedPlaceholders: true,
     connectionLimit: 10,
     queueLimit: 0,
 });

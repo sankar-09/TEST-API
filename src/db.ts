@@ -10,6 +10,7 @@ const myPool: Pool = mysql.createPool({
   password: "Locate@2025",
   database: "u303037170_projectadmin",
   waitForConnections: true,
+  namedPlaceholders: true,
   connectionLimit: 10,
   queueLimit: 0,
 });
