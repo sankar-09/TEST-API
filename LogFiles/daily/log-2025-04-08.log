@@ -1,0 +1,4986 @@
+[2025-04-08T17:22:09.156Z] LOG: 🧠 Primary process started
+[2025-04-08T17:22:09.211Z] LOG: 🧵 Worker forked for port 3000
+[2025-04-08T17:22:09.223Z] LOG: 🧵 Worker forked for port 3001
+[2025-04-08T17:22:09.244Z] LOG: 🧵 Worker forked for port 3002
+[2025-04-08T17:22:09.256Z] LOG: 🧵 Worker forked for port 3003
+[2025-04-08T17:22:09.284Z] LOG: 🧵 Worker forked for port 3004
+[2025-04-08T17:22:09.315Z] LOG: 🧵 Worker forked for port 3005
+[2025-04-08T17:22:09.332Z] LOG: 🧵 Worker forked for port 3006
+[2025-04-08T17:22:09.351Z] LOG: 🧵 Worker forked for port 3007
+[2025-04-08T17:22:09.439Z] LOG: 🧵 Worker forked for port 3008
+[2025-04-08T17:22:09.459Z] LOG: 🧵 Worker forked for port 3009
+[2025-04-08T17:22:09.519Z] LOG: 🧵 Worker forked for port 3010
+[2025-04-08T17:22:09.600Z] LOG: 🧵 Worker forked for port 3011
+[2025-04-08T17:22:09.692Z] LOG: 🧵 Worker forked for port 3012
+[2025-04-08T17:22:09.700Z] LOG: 🧵 Worker forked for port 3013
+[2025-04-08T17:22:09.786Z] LOG: 🧵 Worker forked for port 3014
+[2025-04-08T17:22:09.797Z] LOG: 🧵 Worker forked for port 3015
+[2025-04-08T17:22:09.812Z] LOG: 🧵 Worker forked for port 3016
+[2025-04-08T17:22:09.993Z] LOG: 🧵 Worker forked for port 3017
+[2025-04-08T17:22:10.011Z] LOG: 🧵 Worker forked for port 3018
+[2025-04-08T17:22:10.255Z] LOG: 🧵 Worker forked for port 3019
+[2025-04-08T17:22:10.298Z] LOG: 🧵 Worker forked for port 3020
+[2025-04-08T17:22:10.446Z] LOG: 🧵 Worker forked for port 3021
+[2025-04-08T17:22:10.650Z] LOG: 🧵 Worker forked for port 3022
+[2025-04-08T17:22:10.684Z] LOG: 🧵 Worker forked for port 3023
+[2025-04-08T17:22:10.851Z] LOG: 🧵 Worker forked for port 3024
+[2025-04-08T17:22:10.955Z] LOG: 🧵 Worker forked for port 3025
+[2025-04-08T17:22:10.975Z] LOG: 🧵 Worker forked for port 3026
+[2025-04-08T17:22:11.268Z] LOG: 🧵 Worker forked for port 3027
+[2025-04-08T17:22:11.464Z] LOG: 🧵 Worker forked for port 3028
+[2025-04-08T17:22:11.526Z] LOG: 🧵 Worker forked for port 3029
+[2025-04-08T17:22:11.724Z] LOG: 🧵 Worker forked for port 3030
+[2025-04-08T17:22:11.913Z] LOG: 🧵 Worker forked for port 3031
+[2025-04-08T17:22:12.089Z] LOG: 🧵 Worker forked for port 3032
+[2025-04-08T17:22:12.123Z] LOG: 🧵 Worker forked for port 3033
+[2025-04-08T17:22:12.235Z] LOG: 🧵 Worker forked for port 3034
+[2025-04-08T17:22:12.693Z] LOG: 🧵 Worker forked for port 3035
+[2025-04-08T17:22:13.206Z] LOG: 🧵 Worker forked for port 3036
+[2025-04-08T17:22:13.212Z] LOG: ✅ DB Connected. Worker ready on port 3003
+[2025-04-08T17:22:13.234Z] LOG: 🧵 Worker forked for port 3037
+[2025-04-08T17:22:13.518Z] LOG: ✅ DB Connected. Worker ready on port 3001
+[2025-04-08T17:22:13.576Z] LOG: 🧵 Worker forked for port 3038
+[2025-04-08T17:22:13.597Z] LOG: ✅ DB Connected. Worker ready on port 3004
+[2025-04-08T17:22:14.316Z] LOG: 🧵 Worker forked for port 3039
+[2025-04-08T17:22:14.439Z] LOG: ✅ DB Connected. Worker ready on port 3002
+[2025-04-08T17:22:14.477Z] LOG: ✅ DB Connected. Worker ready on port 3007
+[2025-04-08T17:22:14.483Z] LOG: ✅ DB Connected. Worker ready on port 3000
+[2025-04-08T17:22:14.516Z] LOG: ✅ DB Connected. Worker ready on port 3008
+[2025-04-08T17:22:14.664Z] LOG: 🧵 Worker forked for port 3040
+[2025-04-08T17:22:14.676Z] LOG: ✅ DB Connected. Worker ready on port 3006
+[2025-04-08T17:22:14.837Z] LOG: ✅ DB Connected. Worker ready on port 3009
+[2025-04-08T17:22:14.959Z] LOG: ✅ DB Connected. Worker ready on port 3005
+[2025-04-08T17:22:15.678Z] LOG: ✅ DB Connected. Worker ready on port 3016
+[2025-04-08T17:22:15.683Z] LOG: 🧵 Worker forked for port 3041
+[2025-04-08T17:22:16.405Z] LOG: 🧵 Worker forked for port 3042
+[2025-04-08T17:22:16.799Z] LOG: 🧵 Worker forked for port 3043
+[2025-04-08T17:22:17.287Z] LOG: ✅ DB Connected. Worker ready on port 3015
+[2025-04-08T17:22:17.289Z] LOG: ✅ DB Connected. Worker ready on port 3012
+[2025-04-08T17:22:17.291Z] LOG: ✅ DB Connected. Worker ready on port 3019
+[2025-04-08T17:22:17.291Z] LOG: ✅ DB Connected. Worker ready on port 3010
+[2025-04-08T17:22:17.295Z] LOG: ✅ DB Connected. Worker ready on port 3013
+[2025-04-08T17:22:17.295Z] LOG: ✅ DB Connected. Worker ready on port 3014
+[2025-04-08T17:22:17.297Z] LOG: ✅ DB Connected. Worker ready on port 3011
+[2025-04-08T17:22:17.535Z] LOG: 🧵 Worker forked for port 3044
+[2025-04-08T17:22:17.556Z] LOG: 🧵 Worker forked for port 3045
+[2025-04-08T17:22:17.750Z] LOG: 🧵 Worker forked for port 3046
+[2025-04-08T17:22:17.878Z] LOG: ✅ DB Connected. Worker ready on port 3018
+[2025-04-08T17:22:17.998Z] LOG: ✅ DB Connected. Worker ready on port 3017
+[2025-04-08T17:22:18.377Z] LOG: ✅ DB Connected. Worker ready on port 3023
+[2025-04-08T17:22:18.383Z] LOG: ✅ DB Connected. Worker ready on port 3021
+[2025-04-08T17:22:18.516Z] LOG: ✅ DB Connected. Worker ready on port 3024
+[2025-04-08T17:22:18.517Z] LOG: ✅ DB Connected. Worker ready on port 3022
+[2025-04-08T17:22:18.600Z] LOG: ✅ DB Connected. Worker ready on port 3026
+[2025-04-08T17:22:18.725Z] LOG: ✅ DB Connected. Worker ready on port 3020
+[2025-04-08T17:22:18.768Z] LOG: 🧵 Worker forked for port 3047
+[2025-04-08T17:22:18.785Z] LOG: 🧵 Worker forked for port 3048
+[2025-04-08T17:22:18.956Z] LOG: 🧵 Worker forked for port 3049
+[2025-04-08T17:22:19.813Z] LOG: 🔁 Load balancer running on port 8000
+[2025-04-08T17:22:20.053Z] LOG: ✅ Active worker ports: 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049
+[2025-04-08T17:22:20.431Z] LOG: ✅ DB Connected. Worker ready on port 3033
+[2025-04-08T17:22:20.562Z] LOG: 🚀 Server running on port 3001
+[2025-04-08T17:22:21.134Z] LOG: 🚀 Server running on port 3000
+[2025-04-08T17:22:21.142Z] LOG: 🚀 Server running on port 3002
+[2025-04-08T17:22:21.502Z] LOG: 🚀 Server running on port 3003
+[2025-04-08T17:22:21.599Z] LOG: 🚀 Server running on port 3004
+[2025-04-08T17:22:21.604Z] LOG: 🚀 Server running on port 3005
+[2025-04-08T17:22:21.681Z] LOG: 🚀 Server running on port 3006
+[2025-04-08T17:22:21.682Z] LOG: 🚀 Server running on port 3007
+[2025-04-08T17:22:21.687Z] LOG: 🚀 Server running on port 3008
+[2025-04-08T17:22:21.750Z] LOG: 🚀 Server running on port 3009
+[2025-04-08T17:22:21.756Z] LOG: 🚀 Server running on port 3010
+[2025-04-08T17:22:21.756Z] LOG: 🚀 Server running on port 3013
+[2025-04-08T17:22:21.794Z] LOG: 🚀 Server running on port 3012
+[2025-04-08T17:22:21.795Z] LOG: 🚀 Server running on port 3011
+[2025-04-08T17:22:21.795Z] LOG: 🚀 Server running on port 3017
+[2025-04-08T17:22:21.796Z] LOG: 🚀 Server running on port 3014
+[2025-04-08T17:22:21.872Z] LOG: 🚀 Server running on port 3016
+[2025-04-08T17:22:21.872Z] LOG: 🚀 Server running on port 3015
+[2025-04-08T17:22:21.874Z] LOG: 🚀 Server running on port 3018
+[2025-04-08T17:22:21.944Z] LOG: 🚀 Server running on port 3019
+[2025-04-08T17:22:21.945Z] LOG: 🚀 Server running on port 3024
+[2025-04-08T17:22:22.007Z] LOG: 🚀 Server running on port 3020
+[2025-04-08T17:22:21.940Z] LOG: 🚀 Server running on port 3021
+[2025-04-08T17:22:22.013Z] LOG: 🚀 Server running on port 3023
+[2025-04-08T17:22:22.014Z] LOG: 🚀 Server running on port 3022
+[2025-04-08T17:22:22.015Z] LOG: 🚀 Server running on port 3026
+[2025-04-08T17:22:22.036Z] LOG: 🚀 Server running on port 3033
+[2025-04-08T17:22:22.325Z] LOG: ✅ DB Connected. Worker ready on port 3031
+[2025-04-08T17:22:22.680Z] LOG: ✅ DB Connected. Worker ready on port 3025
+[2025-04-08T17:22:22.820Z] LOG: 🚀 Server running on port 3031
+[2025-04-08T17:22:22.997Z] LOG: 🚀 Server running on port 3025
+[2025-04-08T17:22:26.861Z] LOG: ✅ DB Connected. Worker ready on port 3040
+[2025-04-08T17:22:26.862Z] LOG: ✅ DB Connected. Worker ready on port 3029
+[2025-04-08T17:22:26.868Z] LOG: ✅ DB Connected. Worker ready on port 3032
+[2025-04-08T17:22:26.903Z] LOG: ✅ DB Connected. Worker ready on port 3028
+[2025-04-08T17:22:26.920Z] LOG: ✅ DB Connected. Worker ready on port 3030
+[2025-04-08T17:22:26.927Z] LOG: ✅ DB Connected. Worker ready on port 3034
+[2025-04-08T17:22:26.927Z] LOG: ✅ DB Connected. Worker ready on port 3027
+[2025-04-08T17:22:26.954Z] LOG: 🚀 Server running on port 3040
+[2025-04-08T17:22:26.989Z] LOG: 🚀 Server running on port 3029
+[2025-04-08T17:22:27.002Z] LOG: 🚀 Server running on port 3032
+[2025-04-08T17:22:27.018Z] LOG: 🚀 Server running on port 3028
+[2025-04-08T17:22:27.031Z] LOG: 🚀 Server running on port 3027
+[2025-04-08T17:22:27.065Z] LOG: 🚀 Server running on port 3034
+[2025-04-08T17:22:27.087Z] LOG: 🚀 Server running on port 3030
+[2025-04-08T17:22:38.112Z] LOG: ✅ DB Connected. Worker ready on port 3039
+[2025-04-08T17:22:38.115Z] LOG: ✅ DB Connected. Worker ready on port 3043
+[2025-04-08T17:22:38.117Z] LOG: ✅ DB Connected. Worker ready on port 3042
+[2025-04-08T17:22:38.118Z] LOG: ✅ DB Connected. Worker ready on port 3038
+[2025-04-08T17:22:38.118Z] LOG: ✅ DB Connected. Worker ready on port 3045
+[2025-04-08T17:22:38.118Z] LOG: ✅ DB Connected. Worker ready on port 3041
+[2025-04-08T17:22:38.120Z] LOG: ✅ DB Connected. Worker ready on port 3048
+[2025-04-08T17:22:38.119Z] LOG: ✅ DB Connected. Worker ready on port 3046
+[2025-04-08T17:22:38.119Z] LOG: ✅ DB Connected. Worker ready on port 3035
+[2025-04-08T17:22:38.120Z] LOG: ✅ DB Connected. Worker ready on port 3044
+[2025-04-08T17:22:38.121Z] LOG: ✅ DB Connected. Worker ready on port 3049
+[2025-04-08T17:22:38.119Z] LOG: ✅ DB Connected. Worker ready on port 3037
+[2025-04-08T17:22:38.120Z] LOG: ✅ DB Connected. Worker ready on port 3036
+[2025-04-08T17:22:38.285Z] LOG: 🚀 Server running on port 3039
+[2025-04-08T17:22:38.293Z] LOG: 🚀 Server running on port 3043
+[2025-04-08T17:22:38.298Z] LOG: 🚀 Server running on port 3046
+[2025-04-08T17:22:38.310Z] LOG: 🚀 Server running on port 3044
+[2025-04-08T17:22:38.313Z] LOG: 🚀 Server running on port 3041
+[2025-04-08T17:22:38.326Z] LOG: 🚀 Server running on port 3042
+[2025-04-08T17:22:38.334Z] LOG: 🚀 Server running on port 3035
+[2025-04-08T17:22:38.357Z] LOG: 🚀 Server running on port 3048
+[2025-04-08T17:22:38.372Z] LOG: 🚀 Server running on port 3045
+[2025-04-08T17:22:38.372Z] LOG: 🚀 Server running on port 3037
+[2025-04-08T17:22:38.392Z] LOG: 🚀 Server running on port 3049
+[2025-04-08T17:22:38.542Z] LOG: 🚀 Server running on port 3036
+[2025-04-08T17:22:38.663Z] LOG: 🚀 Server running on port 3038
+[2025-04-08T17:22:39.151Z] LOG: ✅ DB Connected. Worker ready on port 3047
+[2025-04-08T17:22:39.178Z] LOG: 🚀 Server running on port 3047
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:12.441Z
+⏰ Local Time (IST): 8/4/2025, 10:55:12 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 135 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:12.730Z
+⏰ Local Time (IST): 8/4/2025, 10:55:12 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 109 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:12.933Z
+⏰ Local Time (IST): 8/4/2025, 10:55:12 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3002
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 110 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:13.158Z
+⏰ Local Time (IST): 8/4/2025, 10:55:13 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3003
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 114 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:13.419Z
+⏰ Local Time (IST): 8/4/2025, 10:55:13 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3004
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 146 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:13.721Z
+⏰ Local Time (IST): 8/4/2025, 10:55:13 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3005
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 122 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:14.002Z
+⏰ Local Time (IST): 8/4/2025, 10:55:14 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3006
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 135 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:14.257Z
+⏰ Local Time (IST): 8/4/2025, 10:55:14 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3007
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 135 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:14.513Z
+⏰ Local Time (IST): 8/4/2025, 10:55:14 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3008
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 139 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:14.768Z
+⏰ Local Time (IST): 8/4/2025, 10:55:14 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3009
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 122 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:15.047Z
+⏰ Local Time (IST): 8/4/2025, 10:55:15 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3010
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 139 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:15.990Z
+⏰ Local Time (IST): 8/4/2025, 10:55:15 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3011
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 845 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:16.232Z
+⏰ Local Time (IST): 8/4/2025, 10:55:16 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3012
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 133 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:16.485Z
+⏰ Local Time (IST): 8/4/2025, 10:55:16 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3013
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 135 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:16.702Z
+⏰ Local Time (IST): 8/4/2025, 10:55:16 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3014
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 122 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:16.920Z
+⏰ Local Time (IST): 8/4/2025, 10:55:16 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3015
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 105 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:17.157Z
+⏰ Local Time (IST): 8/4/2025, 10:55:17 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3016
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 129 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:17.437Z
+⏰ Local Time (IST): 8/4/2025, 10:55:17 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3017
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 157 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:17.719Z
+⏰ Local Time (IST): 8/4/2025, 10:55:17 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3018
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 154 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:17.937Z
+⏰ Local Time (IST): 8/4/2025, 10:55:17 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3019
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 112 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:18.161Z
+⏰ Local Time (IST): 8/4/2025, 10:55:18 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3020
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 123 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:18.432Z
+⏰ Local Time (IST): 8/4/2025, 10:55:18 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3021
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 148 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:18.718Z
+⏰ Local Time (IST): 8/4/2025, 10:55:18 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3022
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 165 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:18.994Z
+⏰ Local Time (IST): 8/4/2025, 10:55:18 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3023
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 151 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:19.241Z
+⏰ Local Time (IST): 8/4/2025, 10:55:19 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3024
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 155 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:19.488Z
+⏰ Local Time (IST): 8/4/2025, 10:55:19 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3025
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 124 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:19.757Z
+⏰ Local Time (IST): 8/4/2025, 10:55:19 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3026
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 141 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:20.006Z
+⏰ Local Time (IST): 8/4/2025, 10:55:20 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3027
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 137 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:20.275Z
+⏰ Local Time (IST): 8/4/2025, 10:55:20 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3028
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 148 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:20.487Z
+⏰ Local Time (IST): 8/4/2025, 10:55:20 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3029
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 133 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:20.727Z
+⏰ Local Time (IST): 8/4/2025, 10:55:20 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3030
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 108 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:20.997Z
+⏰ Local Time (IST): 8/4/2025, 10:55:20 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3031
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 174 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:21.254Z
+⏰ Local Time (IST): 8/4/2025, 10:55:21 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3032
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 134 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:21.491Z
+⏰ Local Time (IST): 8/4/2025, 10:55:21 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3033
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 141 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:22.871Z
+⏰ Local Time (IST): 8/4/2025, 10:55:22 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3034
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 1286 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:23.251Z
+⏰ Local Time (IST): 8/4/2025, 10:55:23 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3035
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 123 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:24.883Z
+⏰ Local Time (IST): 8/4/2025, 10:55:24 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3036
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 1422 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:25.088Z
+⏰ Local Time (IST): 8/4/2025, 10:55:25 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3037
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 117 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:26.879Z
+⏰ Local Time (IST): 8/4/2025, 10:55:26 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3038
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 1695 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:27.118Z
+⏰ Local Time (IST): 8/4/2025, 10:55:27 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3039
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 116 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:27.392Z
+⏰ Local Time (IST): 8/4/2025, 10:55:27 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3040
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 171 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:27.647Z
+⏰ Local Time (IST): 8/4/2025, 10:55:27 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3041
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 144 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:27.891Z
+⏰ Local Time (IST): 8/4/2025, 10:55:27 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3042
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 136 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:28.155Z
+⏰ Local Time (IST): 8/4/2025, 10:55:28 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3043
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 146 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:28.406Z
+⏰ Local Time (IST): 8/4/2025, 10:55:28 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3044
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 142 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:29.760Z
+⏰ Local Time (IST): 8/4/2025, 10:55:29 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3045
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 1240 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:30.077Z
+⏰ Local Time (IST): 8/4/2025, 10:55:30 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3046
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 170 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:30.327Z
+⏰ Local Time (IST): 8/4/2025, 10:55:30 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3047
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 114 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:32.146Z
+⏰ Local Time (IST): 8/4/2025, 10:55:32 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3048
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 1690 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:32.405Z
+⏰ Local Time (IST): 8/4/2025, 10:55:32 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3049
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 124 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:32.555Z
+⏰ Local Time (IST): 8/4/2025, 10:55:32 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 55 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:32.714Z
+⏰ Local Time (IST): 8/4/2025, 10:55:32 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 86 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:32.833Z
+⏰ Local Time (IST): 8/4/2025, 10:55:32 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3002
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 58 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:32.996Z
+⏰ Local Time (IST): 8/4/2025, 10:55:32 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3003
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:33.154Z
+⏰ Local Time (IST): 8/4/2025, 10:55:33 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3004
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 81 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:33.273Z
+⏰ Local Time (IST): 8/4/2025, 10:55:33 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3005
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 56 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:33.434Z
+⏰ Local Time (IST): 8/4/2025, 10:55:33 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3006
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 81 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:33.556Z
+⏰ Local Time (IST): 8/4/2025, 10:55:33 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3007
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 51 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:33.711Z
+⏰ Local Time (IST): 8/4/2025, 10:55:33 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3008
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 59 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:33.833Z
+⏰ Local Time (IST): 8/4/2025, 10:55:33 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3009
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 62 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:33.955Z
+⏰ Local Time (IST): 8/4/2025, 10:55:33 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3010
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 51 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:34.074Z
+⏰ Local Time (IST): 8/4/2025, 10:55:34 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3011
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 49 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:34.190Z
+⏰ Local Time (IST): 8/4/2025, 10:55:34 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3012
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 60 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:34.315Z
+⏰ Local Time (IST): 8/4/2025, 10:55:34 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3013
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 58 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:34.431Z
+⏰ Local Time (IST): 8/4/2025, 10:55:34 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3014
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 57 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:34.553Z
+⏰ Local Time (IST): 8/4/2025, 10:55:34 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3015
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 57 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:34.677Z
+⏰ Local Time (IST): 8/4/2025, 10:55:34 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3016
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 72 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:34.795Z
+⏰ Local Time (IST): 8/4/2025, 10:55:34 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3017
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 56 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:34.955Z
+⏰ Local Time (IST): 8/4/2025, 10:55:34 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3018
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 81 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:35.073Z
+⏰ Local Time (IST): 8/4/2025, 10:55:35 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3019
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 66 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:35.193Z
+⏰ Local Time (IST): 8/4/2025, 10:55:35 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3020
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 65 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:35.309Z
+⏰ Local Time (IST): 8/4/2025, 10:55:35 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3021
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 80 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:35.437Z
+⏰ Local Time (IST): 8/4/2025, 10:55:35 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3022
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 94 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:35.552Z
+⏰ Local Time (IST): 8/4/2025, 10:55:35 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3023
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:35.673Z
+⏰ Local Time (IST): 8/4/2025, 10:55:35 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3024
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 52 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:35.795Z
+⏰ Local Time (IST): 8/4/2025, 10:55:35 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3025
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 83 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:35.925Z
+⏰ Local Time (IST): 8/4/2025, 10:55:35 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3026
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 82 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:36.074Z
+⏰ Local Time (IST): 8/4/2025, 10:55:36 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3027
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:36.230Z
+⏰ Local Time (IST): 8/4/2025, 10:55:36 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3028
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 72 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:36.353Z
+⏰ Local Time (IST): 8/4/2025, 10:55:36 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3029
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 48 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:36.507Z
+⏰ Local Time (IST): 8/4/2025, 10:55:36 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3030
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 65 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:36.633Z
+⏰ Local Time (IST): 8/4/2025, 10:55:36 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3031
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 65 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:36.742Z
+⏰ Local Time (IST): 8/4/2025, 10:55:36 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3032
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 62 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:36.834Z
+⏰ Local Time (IST): 8/4/2025, 10:55:36 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3033
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 58 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:36.958Z
+⏰ Local Time (IST): 8/4/2025, 10:55:36 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3034
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 59 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:37.077Z
+⏰ Local Time (IST): 8/4/2025, 10:55:37 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3035
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 61 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:37.235Z
+⏰ Local Time (IST): 8/4/2025, 10:55:37 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3036
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 75 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:37.353Z
+⏰ Local Time (IST): 8/4/2025, 10:55:37 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3037
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 64 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:37.514Z
+⏰ Local Time (IST): 8/4/2025, 10:55:37 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3038
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 85 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:37.671Z
+⏰ Local Time (IST): 8/4/2025, 10:55:37 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3039
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 63 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:37.787Z
+⏰ Local Time (IST): 8/4/2025, 10:55:37 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3040
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 66 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:37.913Z
+⏰ Local Time (IST): 8/4/2025, 10:55:37 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3041
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 54 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:38.074Z
+⏰ Local Time (IST): 8/4/2025, 10:55:38 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3042
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 50 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:38.175Z
+⏰ Local Time (IST): 8/4/2025, 10:55:38 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3043
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 51 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:38.297Z
+⏰ Local Time (IST): 8/4/2025, 10:55:38 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3044
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 70 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:38.432Z
+⏰ Local Time (IST): 8/4/2025, 10:55:38 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3045
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 74 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:38.593Z
+⏰ Local Time (IST): 8/4/2025, 10:55:38 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3046
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 82 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:38.713Z
+⏰ Local Time (IST): 8/4/2025, 10:55:38 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3047
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 68 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:38.833Z
+⏰ Local Time (IST): 8/4/2025, 10:55:38 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3048
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 72 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:38.956Z
+⏰ Local Time (IST): 8/4/2025, 10:55:38 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3049
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 64 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:39.117Z
+⏰ Local Time (IST): 8/4/2025, 10:55:39 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 89 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:39.274Z
+⏰ Local Time (IST): 8/4/2025, 10:55:39 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 64 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:39.434Z
+⏰ Local Time (IST): 8/4/2025, 10:55:39 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3002
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 85 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:39.603Z
+⏰ Local Time (IST): 8/4/2025, 10:55:39 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3003
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 96 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:39.753Z
+⏰ Local Time (IST): 8/4/2025, 10:55:39 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3004
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 74 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:39.873Z
+⏰ Local Time (IST): 8/4/2025, 10:55:39 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3005
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 57 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:39.984Z
+⏰ Local Time (IST): 8/4/2025, 10:55:39 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3006
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 63 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:40.106Z
+⏰ Local Time (IST): 8/4/2025, 10:55:40 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3007
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 60 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:40.230Z
+⏰ Local Time (IST): 8/4/2025, 10:55:40 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3008
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 83 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:40.396Z
+⏰ Local Time (IST): 8/4/2025, 10:55:40 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3009
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 83 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:40.554Z
+⏰ Local Time (IST): 8/4/2025, 10:55:40 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3010
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 82 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:40.676Z
+⏰ Local Time (IST): 8/4/2025, 10:55:40 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3011
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 49 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:40.790Z
+⏰ Local Time (IST): 8/4/2025, 10:55:40 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3012
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 64 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:40.915Z
+⏰ Local Time (IST): 8/4/2025, 10:55:40 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3013
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 80 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:41.028Z
+⏰ Local Time (IST): 8/4/2025, 10:55:41 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3014
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 49 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:41.151Z
+⏰ Local Time (IST): 8/4/2025, 10:55:41 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3015
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 66 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:41.312Z
+⏰ Local Time (IST): 8/4/2025, 10:55:41 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3016
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 83 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:41.434Z
+⏰ Local Time (IST): 8/4/2025, 10:55:41 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3017
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 55 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:41.555Z
+⏰ Local Time (IST): 8/4/2025, 10:55:41 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3018
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 73 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:41.673Z
+⏰ Local Time (IST): 8/4/2025, 10:55:41 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3019
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 65 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:41.794Z
+⏰ Local Time (IST): 8/4/2025, 10:55:41 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3020
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 72 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:41.913Z
+⏰ Local Time (IST): 8/4/2025, 10:55:41 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3021
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 52 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:42.034Z
+⏰ Local Time (IST): 8/4/2025, 10:55:42 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3022
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 63 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:42.152Z
+⏰ Local Time (IST): 8/4/2025, 10:55:42 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3023
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 50 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:42.303Z
+⏰ Local Time (IST): 8/4/2025, 10:55:42 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3024
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 70 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:42.435Z
+⏰ Local Time (IST): 8/4/2025, 10:55:42 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3025
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 52 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:42.601Z
+⏰ Local Time (IST): 8/4/2025, 10:55:42 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3026
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 87 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:42.716Z
+⏰ Local Time (IST): 8/4/2025, 10:55:42 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3027
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 64 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:42.829Z
+⏰ Local Time (IST): 8/4/2025, 10:55:42 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3028
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 60 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:42.911Z
+⏰ Local Time (IST): 8/4/2025, 10:55:42 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3029
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 47 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.034Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3030
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 65 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.155Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3031
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 68 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.271Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3032
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 71 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.394Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3033
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 91 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.512Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3034
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 60 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.632Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3035
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 67 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.762Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3036
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 58 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.874Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3037
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 61 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:43.994Z
+⏰ Local Time (IST): 8/4/2025, 10:55:43 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3038
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 71 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:44.110Z
+⏰ Local Time (IST): 8/4/2025, 10:55:44 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3039
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 70 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:44.229Z
+⏰ Local Time (IST): 8/4/2025, 10:55:44 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3040
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 63 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:44.352Z
+⏰ Local Time (IST): 8/4/2025, 10:55:44 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3041
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 69 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:44.474Z
+⏰ Local Time (IST): 8/4/2025, 10:55:44 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3042
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 55 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:44.591Z
+⏰ Local Time (IST): 8/4/2025, 10:55:44 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3043
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 58 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:44.754Z
+⏰ Local Time (IST): 8/4/2025, 10:55:44 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3044
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 85 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:44.876Z
+⏰ Local Time (IST): 8/4/2025, 10:55:44 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3045
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 62 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:45.034Z
+⏰ Local Time (IST): 8/4/2025, 10:55:45 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3046
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 84 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:45.193Z
+⏰ Local Time (IST): 8/4/2025, 10:55:45 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3047
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:45.313Z
+⏰ Local Time (IST): 8/4/2025, 10:55:45 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3048
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 77 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:45.476Z
+⏰ Local Time (IST): 8/4/2025, 10:55:45 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3049
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 69 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:45.594Z
+⏰ Local Time (IST): 8/4/2025, 10:55:45 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 63 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:45.713Z
+⏰ Local Time (IST): 8/4/2025, 10:55:45 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 71 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:45.834Z
+⏰ Local Time (IST): 8/4/2025, 10:55:45 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3002
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 65 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:45.956Z
+⏰ Local Time (IST): 8/4/2025, 10:55:45 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3003
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 67 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:46.076Z
+⏰ Local Time (IST): 8/4/2025, 10:55:46 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3004
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 71 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:46.277Z
+⏰ Local Time (IST): 8/4/2025, 10:55:46 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3005
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 87 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:46.398Z
+⏰ Local Time (IST): 8/4/2025, 10:55:46 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3006
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 72 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:46.514Z
+⏰ Local Time (IST): 8/4/2025, 10:55:46 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3007
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 57 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:46.629Z
+⏰ Local Time (IST): 8/4/2025, 10:55:46 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3008
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 75 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:46.799Z
+⏰ Local Time (IST): 8/4/2025, 10:55:46 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3009
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 81 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:46.914Z
+⏰ Local Time (IST): 8/4/2025, 10:55:46 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3010
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 47 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:47.031Z
+⏰ Local Time (IST): 8/4/2025, 10:55:47 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3011
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 76 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:47.149Z
+⏰ Local Time (IST): 8/4/2025, 10:55:47 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3012
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 62 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:47.274Z
+⏰ Local Time (IST): 8/4/2025, 10:55:47 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3013
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 68 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:47.391Z
+⏰ Local Time (IST): 8/4/2025, 10:55:47 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3014
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 57 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:47.578Z
+⏰ Local Time (IST): 8/4/2025, 10:55:47 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3015
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 110 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:47.714Z
+⏰ Local Time (IST): 8/4/2025, 10:55:47 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3016
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 62 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:47.836Z
+⏰ Local Time (IST): 8/4/2025, 10:55:47 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3017
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:47.996Z
+⏰ Local Time (IST): 8/4/2025, 10:55:47 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3018
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 88 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:48.153Z
+⏰ Local Time (IST): 8/4/2025, 10:55:48 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3019
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 73 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:48.274Z
+⏰ Local Time (IST): 8/4/2025, 10:55:48 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3020
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 54 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:48.534Z
+⏰ Local Time (IST): 8/4/2025, 10:55:48 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3021
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 94 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:48.634Z
+⏰ Local Time (IST): 8/4/2025, 10:55:48 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3022
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 49 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:48.756Z
+⏰ Local Time (IST): 8/4/2025, 10:55:48 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3023
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 61 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:48.878Z
+⏰ Local Time (IST): 8/4/2025, 10:55:48 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3024
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 68 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:49.038Z
+⏰ Local Time (IST): 8/4/2025, 10:55:49 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3025
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 81 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:49.155Z
+⏰ Local Time (IST): 8/4/2025, 10:55:49 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3026
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 70 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:49.275Z
+⏰ Local Time (IST): 8/4/2025, 10:55:49 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3027
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 52 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:49.389Z
+⏰ Local Time (IST): 8/4/2025, 10:55:49 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3028
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 68 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:49.511Z
+⏰ Local Time (IST): 8/4/2025, 10:55:49 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3029
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 47 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:49.677Z
+⏰ Local Time (IST): 8/4/2025, 10:55:49 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3030
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 89 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:49.793Z
+⏰ Local Time (IST): 8/4/2025, 10:55:49 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3031
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 57 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:49.952Z
+⏰ Local Time (IST): 8/4/2025, 10:55:49 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3032
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 69 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:50.064Z
+⏰ Local Time (IST): 8/4/2025, 10:55:50 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3033
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 58 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:50.194Z
+⏰ Local Time (IST): 8/4/2025, 10:55:50 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3034
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 78 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:50.316Z
+⏰ Local Time (IST): 8/4/2025, 10:55:50 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3035
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 62 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:50.431Z
+⏰ Local Time (IST): 8/4/2025, 10:55:50 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3036
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 58 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:50.553Z
+⏰ Local Time (IST): 8/4/2025, 10:55:50 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3037
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 62 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:50.674Z
+⏰ Local Time (IST): 8/4/2025, 10:55:50 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3038
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 66 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:50.784Z
+⏰ Local Time (IST): 8/4/2025, 10:55:50 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3039
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 43 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:50.911Z
+⏰ Local Time (IST): 8/4/2025, 10:55:50 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3040
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 57 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:51.052Z
+⏰ Local Time (IST): 8/4/2025, 10:55:51 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3041
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 64 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:51.194Z
+⏰ Local Time (IST): 8/4/2025, 10:55:51 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3042
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 68 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:51.351Z
+⏰ Local Time (IST): 8/4/2025, 10:55:51 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3043
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 63 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:51.475Z
+⏰ Local Time (IST): 8/4/2025, 10:55:51 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3044
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 59 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:51.598Z
+⏰ Local Time (IST): 8/4/2025, 10:55:51 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3045
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 70 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:51.713Z
+⏰ Local Time (IST): 8/4/2025, 10:55:51 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3046
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 56 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:51.833Z
+⏰ Local Time (IST): 8/4/2025, 10:55:51 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3047
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 65 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:51.951Z
+⏰ Local Time (IST): 8/4/2025, 10:55:51 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3048
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 69 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:52.077Z
+⏰ Local Time (IST): 8/4/2025, 10:55:52 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3049
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 51 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:52.234Z
+⏰ Local Time (IST): 8/4/2025, 10:55:52 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 69 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:52.354Z
+⏰ Local Time (IST): 8/4/2025, 10:55:52 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 77 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:52.494Z
+⏰ Local Time (IST): 8/4/2025, 10:55:52 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3002
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 67 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:52.634Z
+⏰ Local Time (IST): 8/4/2025, 10:55:52 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3003
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 73 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:52.757Z
+⏰ Local Time (IST): 8/4/2025, 10:55:52 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3004
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 71 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:52.872Z
+⏰ Local Time (IST): 8/4/2025, 10:55:52 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3005
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 48 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:52.995Z
+⏰ Local Time (IST): 8/4/2025, 10:55:52 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3006
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 48 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:53.153Z
+⏰ Local Time (IST): 8/4/2025, 10:55:53 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3007
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:53.274Z
+⏰ Local Time (IST): 8/4/2025, 10:55:53 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3008
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 59 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:53.434Z
+⏰ Local Time (IST): 8/4/2025, 10:55:53 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3009
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 80 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:53.563Z
+⏰ Local Time (IST): 8/4/2025, 10:55:53 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3010
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 53 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:53.713Z
+⏰ Local Time (IST): 8/4/2025, 10:55:53 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3011
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 75 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:53.860Z
+⏰ Local Time (IST): 8/4/2025, 10:55:53 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3012
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 62 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:53.993Z
+⏰ Local Time (IST): 8/4/2025, 10:55:53 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3013
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 88 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:54.109Z
+⏰ Local Time (IST): 8/4/2025, 10:55:54 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3014
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 52 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:54.231Z
+⏰ Local Time (IST): 8/4/2025, 10:55:54 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3015
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 63 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:54.395Z
+⏰ Local Time (IST): 8/4/2025, 10:55:54 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3016
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 85 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:54.557Z
+⏰ Local Time (IST): 8/4/2025, 10:55:54 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3017
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 72 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:54.716Z
+⏰ Local Time (IST): 8/4/2025, 10:55:54 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3018
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 71 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:54.913Z
+⏰ Local Time (IST): 8/4/2025, 10:55:54 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3019
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 83 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:55.033Z
+⏰ Local Time (IST): 8/4/2025, 10:55:55 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3020
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 70 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:55.165Z
+⏰ Local Time (IST): 8/4/2025, 10:55:55 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3021
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 89 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:55.275Z
+⏰ Local Time (IST): 8/4/2025, 10:55:55 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3022
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 58 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:55.429Z
+⏰ Local Time (IST): 8/4/2025, 10:55:55 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3023
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 73 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:55.553Z
+⏰ Local Time (IST): 8/4/2025, 10:55:55 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3024
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 50 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:55.716Z
+⏰ Local Time (IST): 8/4/2025, 10:55:55 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3025
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 87 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:55.875Z
+⏰ Local Time (IST): 8/4/2025, 10:55:55 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3026
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 61 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:55.994Z
+⏰ Local Time (IST): 8/4/2025, 10:55:55 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3027
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 53 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:56.110Z
+⏰ Local Time (IST): 8/4/2025, 10:55:56 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3028
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 71 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:56.232Z
+⏰ Local Time (IST): 8/4/2025, 10:55:56 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3029
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 63 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:56.357Z
+⏰ Local Time (IST): 8/4/2025, 10:55:56 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3030
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 59 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:56.514Z
+⏰ Local Time (IST): 8/4/2025, 10:55:56 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3031
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 77 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:56.672Z
+⏰ Local Time (IST): 8/4/2025, 10:55:56 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3032
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 80 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:56.833Z
+⏰ Local Time (IST): 8/4/2025, 10:55:56 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3033
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 84 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:56.957Z
+⏰ Local Time (IST): 8/4/2025, 10:55:56 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3034
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 81 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:57.067Z
+⏰ Local Time (IST): 8/4/2025, 10:55:57 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3035
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 47 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:57.193Z
+⏰ Local Time (IST): 8/4/2025, 10:55:57 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3036
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:57.313Z
+⏰ Local Time (IST): 8/4/2025, 10:55:57 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3037
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 89 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:57.475Z
+⏰ Local Time (IST): 8/4/2025, 10:55:57 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3038
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 80 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:57.576Z
+⏰ Local Time (IST): 8/4/2025, 10:55:57 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3039
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 45 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:57.668Z
+⏰ Local Time (IST): 8/4/2025, 10:55:57 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3040
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 44 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:57.794Z
+⏰ Local Time (IST): 8/4/2025, 10:55:57 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3041
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 76 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:57.912Z
+⏰ Local Time (IST): 8/4/2025, 10:55:57 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3042
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 60 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:58.073Z
+⏰ Local Time (IST): 8/4/2025, 10:55:58 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3043
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 78 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:58.195Z
+⏰ Local Time (IST): 8/4/2025, 10:55:58 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3044
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 49 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:58.352Z
+⏰ Local Time (IST): 8/4/2025, 10:55:58 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3045
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 54 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:58.475Z
+⏰ Local Time (IST): 8/4/2025, 10:55:58 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3046
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 66 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:58.640Z
+⏰ Local Time (IST): 8/4/2025, 10:55:58 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3047
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 73 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:58.761Z
+⏰ Local Time (IST): 8/4/2025, 10:55:58 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3048
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 49 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:25:58.876Z
+⏰ Local Time (IST): 8/4/2025, 10:55:58 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3049
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 68 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:26:16.073Z
+⏰ Local Time (IST): 8/4/2025, 10:56:16 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 85 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:26:30.088Z
+⏰ Local Time (IST): 8/4/2025, 10:56:30 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:26:38.128Z
+⏰ Local Time (IST): 8/4/2025, 10:56:38 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3002
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 132 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:26:46.279Z
+⏰ Local Time (IST): 8/4/2025, 10:56:46 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3003
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 87 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:27:05.234Z
+⏰ Local Time (IST): 8/4/2025, 10:57:05 pm
+🔹 Action: Fetch User ID 1
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3004
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 68 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:27:09.394Z
+⏰ Local Time (IST): 8/4/2025, 10:57:09 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3005
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 156 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T17:28:31.874Z
+⏰ Local Time (IST): 8/4/2025, 10:58:31 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📍 Location: Localhost, Dev Machine
+📥 Port: 3006
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 71 ms
+✅ No Errors
+=========================
+[2025-04-08T18:00:47.072Z] LOG: 🧠 Primary process started
+[2025-04-08T18:00:47.108Z] LOG: 🧵 Worker forked for port 3000
+[2025-04-08T18:00:47.117Z] LOG: 🧵 Worker forked for port 3001
+[2025-04-08T18:00:47.133Z] LOG: 🧵 Worker forked for port 3002
+[2025-04-08T18:00:47.146Z] LOG: 🧵 Worker forked for port 3003
+[2025-04-08T18:00:47.157Z] LOG: 🧵 Worker forked for port 3004
+[2025-04-08T18:00:47.174Z] LOG: 🧵 Worker forked for port 3005
+[2025-04-08T18:00:47.186Z] LOG: 🧵 Worker forked for port 3006
+[2025-04-08T18:00:47.215Z] LOG: 🧵 Worker forked for port 3007
+[2025-04-08T18:00:47.227Z] LOG: 🧵 Worker forked for port 3008
+[2025-04-08T18:00:47.254Z] LOG: 🧵 Worker forked for port 3009
+[2025-04-08T18:00:47.268Z] LOG: 🧵 Worker forked for port 3010
+[2025-04-08T18:00:47.284Z] LOG: 🧵 Worker forked for port 3011
+[2025-04-08T18:00:47.400Z] LOG: 🧵 Worker forked for port 3012
+[2025-04-08T18:00:47.412Z] LOG: 🧵 Worker forked for port 3013
+[2025-04-08T18:00:47.503Z] LOG: 🧵 Worker forked for port 3014
+[2025-04-08T18:00:47.671Z] LOG: 🧵 Worker forked for port 3015
+[2025-04-08T18:00:47.678Z] LOG: 🧵 Worker forked for port 3016
+[2025-04-08T18:00:47.688Z] LOG: 🧵 Worker forked for port 3017
+[2025-04-08T18:00:47.802Z] LOG: 🧵 Worker forked for port 3018
+[2025-04-08T18:00:47.808Z] LOG: 🧵 Worker forked for port 3019
+[2025-04-08T18:00:47.817Z] LOG: 🧵 Worker forked for port 3020
+[2025-04-08T18:00:47.932Z] LOG: 🧵 Worker forked for port 3021
+[2025-04-08T18:00:48.064Z] LOG: 🧵 Worker forked for port 3022
+[2025-04-08T18:00:48.082Z] LOG: 🧵 Worker forked for port 3023
+[2025-04-08T18:00:48.144Z] LOG: 🧵 Worker forked for port 3024
+[2025-04-08T18:00:48.268Z] LOG: 🧵 Worker forked for port 3025
+[2025-04-08T18:00:48.377Z] LOG: 🧵 Worker forked for port 3026
+[2025-04-08T18:00:48.402Z] LOG: 🧵 Worker forked for port 3027
+[2025-04-08T18:00:48.595Z] LOG: 🧵 Worker forked for port 3028
+[2025-04-08T18:00:48.859Z] LOG: 🧵 Worker forked for port 3029
+[2025-04-08T18:00:49.008Z] LOG: 🧵 Worker forked for port 3030
+[2025-04-08T18:00:49.196Z] LOG: 🧵 Worker forked for port 3031
+[2025-04-08T18:00:49.216Z] LOG: 🧵 Worker forked for port 3032
+[2025-04-08T18:00:49.229Z] LOG: 🧵 Worker forked for port 3033
+[2025-04-08T18:00:49.431Z] LOG: 🧵 Worker forked for port 3034
+[2025-04-08T18:00:49.456Z] LOG: 🧵 Worker forked for port 3035
+[2025-04-08T18:00:49.675Z] LOG: 🧵 Worker forked for port 3036
+[2025-04-08T18:00:49.868Z] LOG: 🧵 Worker forked for port 3037
+[2025-04-08T18:00:49.900Z] LOG: 🧵 Worker forked for port 3038
+[2025-04-08T18:00:50.249Z] LOG: ✅ DB Connected. Worker ready on port 3003
+[2025-04-08T18:00:50.255Z] LOG: ✅ DB Connected. Worker ready on port 3007
+[2025-04-08T18:00:50.256Z] LOG: ✅ DB Connected. Worker ready on port 3004
+[2025-04-08T18:00:50.256Z] LOG: ✅ DB Connected. Worker ready on port 3002
+[2025-04-08T18:00:50.272Z] LOG: 🧵 Worker forked for port 3039
+[2025-04-08T18:00:50.280Z] LOG: 🧵 Worker forked for port 3040
+[2025-04-08T18:00:50.291Z] LOG: ✅ DB Connected. Worker ready on port 3000
+[2025-04-08T18:00:50.311Z] LOG: ✅ DB Connected. Worker ready on port 3005
+[2025-04-08T18:00:50.409Z] LOG: 🧵 Worker forked for port 3041
+[2025-04-08T18:00:50.416Z] LOG: 🧵 Worker forked for port 3042
+[2025-04-08T18:00:50.424Z] LOG: 🧵 Worker forked for port 3043
+[2025-04-08T18:00:50.434Z] LOG: 🧵 Worker forked for port 3044
+[2025-04-08T18:00:50.441Z] LOG: 🧵 Worker forked for port 3045
+[2025-04-08T18:00:50.451Z] LOG: 🧵 Worker forked for port 3046
+[2025-04-08T18:00:50.457Z] LOG: 🧵 Worker forked for port 3047
+[2025-04-08T18:00:50.466Z] LOG: 🧵 Worker forked for port 3048
+[2025-04-08T18:00:50.473Z] LOG: 🧵 Worker forked for port 3049
+[2025-04-08T18:00:50.806Z] LOG: 🔁 Load balancer running on port 8000
+[2025-04-08T18:00:50.925Z] LOG: ✅ DB Connected. Worker ready on port 3001
+[2025-04-08T18:00:50.930Z] LOG: ✅ DB Connected. Worker ready on port 3006
+[2025-04-08T18:00:51.102Z] LOG: ✅ Active worker ports: 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049
+[2025-04-08T18:00:51.119Z] LOG: 🚀 Server running on port 3001
+[2025-04-08T18:00:51.121Z] LOG: 🚀 Server running on port 3000
+[2025-04-08T18:00:51.121Z] LOG: 🚀 Server running on port 3003
+[2025-04-08T18:00:51.125Z] LOG: 🚀 Server running on port 3004
+[2025-04-08T18:00:51.127Z] LOG: 🚀 Server running on port 3002
+[2025-04-08T18:00:51.129Z] LOG: 🚀 Server running on port 3007
+[2025-04-08T18:00:51.131Z] LOG: 🚀 Server running on port 3006
+[2025-04-08T18:00:51.135Z] LOG: 🚀 Server running on port 3005
+[2025-04-08T18:00:52.943Z] LOG: ✅ DB Connected. Worker ready on port 3009
+[2025-04-08T18:00:52.950Z] LOG: 🚀 Server running on port 3009
+[2025-04-08T18:00:53.375Z] LOG: ✅ DB Connected. Worker ready on port 3010
+[2025-04-08T18:00:53.382Z] LOG: 🚀 Server running on port 3010
+[2025-04-08T18:00:53.388Z] LOG: ✅ DB Connected. Worker ready on port 3008
+[2025-04-08T18:00:53.396Z] LOG: 🚀 Server running on port 3008
+[2025-04-08T18:00:54.077Z] LOG: ✅ DB Connected. Worker ready on port 3017
+[2025-04-08T18:00:55.241Z] LOG: ✅ DB Connected. Worker ready on port 3011
+[2025-04-08T18:00:55.289Z] LOG: 🚀 Server running on port 3011
+[2025-04-08T18:00:55.601Z] LOG: ✅ DB Connected. Worker ready on port 3013
+[2025-04-08T18:00:55.603Z] LOG: ✅ DB Connected. Worker ready on port 3016
+[2025-04-08T18:00:55.621Z] LOG: 🚀 Server running on port 3013
+[2025-04-08T18:00:55.627Z] LOG: 🚀 Server running on port 3016
+[2025-04-08T18:00:55.641Z] LOG: 🚀 Server running on port 3017
+[2025-04-08T18:00:55.709Z] LOG: ✅ DB Connected. Worker ready on port 3014
+[2025-04-08T18:00:55.761Z] LOG: ✅ DB Connected. Worker ready on port 3019
+[2025-04-08T18:00:55.798Z] LOG: 🚀 Server running on port 3014
+[2025-04-08T18:00:55.804Z] LOG: 🚀 Server running on port 3019
+[2025-04-08T18:00:55.813Z] LOG: ✅ DB Connected. Worker ready on port 3018
+[2025-04-08T18:00:55.839Z] LOG: ✅ DB Connected. Worker ready on port 3021
+[2025-04-08T18:00:55.941Z] LOG: 🚀 Server running on port 3018
+[2025-04-08T18:00:56.327Z] LOG: 🚀 Server running on port 3021
+[2025-04-08T18:01:03.423Z] LOG: ✅ DB Connected. Worker ready on port 3020
+[2025-04-08T18:01:03.456Z] LOG: ✅ DB Connected. Worker ready on port 3015
+[2025-04-08T18:01:03.475Z] LOG: ✅ DB Connected. Worker ready on port 3033
+[2025-04-08T18:01:03.477Z] LOG: ✅ DB Connected. Worker ready on port 3035
+[2025-04-08T18:01:03.479Z] LOG: ✅ DB Connected. Worker ready on port 3012
+[2025-04-08T18:01:03.481Z] LOG: ✅ DB Connected. Worker ready on port 3024
+[2025-04-08T18:01:03.483Z] LOG: ✅ DB Connected. Worker ready on port 3022
+[2025-04-08T18:01:03.998Z] LOG: 🚀 Server running on port 3020
+[2025-04-08T18:01:04.007Z] LOG: 🚀 Server running on port 3033
+[2025-04-08T18:01:04.033Z] LOG: 🚀 Server running on port 3012
+[2025-04-08T18:01:04.037Z] LOG: 🚀 Server running on port 3024
+[2025-04-08T18:01:04.063Z] LOG: 🚀 Server running on port 3035
+[2025-04-08T18:01:04.214Z] LOG: 🚀 Server running on port 3022
+[2025-04-08T18:01:04.220Z] LOG: 🚀 Server running on port 3015
+[2025-04-08T18:01:11.069Z] LOG: ✅ DB Connected. Worker ready on port 3048
+[2025-04-08T18:01:11.070Z] LOG: ✅ DB Connected. Worker ready on port 3044
+[2025-04-08T18:01:11.096Z] LOG: ✅ DB Connected. Worker ready on port 3042
+[2025-04-08T18:01:11.099Z] LOG: ✅ DB Connected. Worker ready on port 3023
+[2025-04-08T18:01:11.102Z] LOG: ✅ DB Connected. Worker ready on port 3045
+[2025-04-08T18:01:11.071Z] LOG: ✅ DB Connected. Worker ready on port 3049
+[2025-04-08T18:01:11.072Z] LOG: ✅ DB Connected. Worker ready on port 3030
+[2025-04-08T18:01:11.140Z] LOG: 🚀 Server running on port 3023
+[2025-04-08T18:01:11.141Z] LOG: 🚀 Server running on port 3042
+[2025-04-08T18:01:11.142Z] LOG: 🚀 Server running on port 3045
+[2025-04-08T18:01:11.068Z] LOG: ✅ DB Connected. Worker ready on port 3032
+[2025-04-08T18:01:11.072Z] LOG: ✅ DB Connected. Worker ready on port 3046
+[2025-04-08T18:01:11.187Z] LOG: 🚀 Server running on port 3048
+[2025-04-08T18:01:11.196Z] LOG: 🚀 Server running on port 3030
+[2025-04-08T18:01:11.198Z] LOG: 🚀 Server running on port 3049
+[2025-04-08T18:01:11.217Z] LOG: ✅ DB Connected. Worker ready on port 3040
+[2025-04-08T18:01:11.220Z] LOG: ✅ DB Connected. Worker ready on port 3043
+[2025-04-08T18:01:11.226Z] LOG: 🚀 Server running on port 3040
+[2025-04-08T18:01:11.228Z] LOG: 🚀 Server running on port 3043
+[2025-04-08T18:01:11.254Z] LOG: ✅ DB Connected. Worker ready on port 3047
+[2025-04-08T18:01:11.263Z] LOG: ✅ DB Connected. Worker ready on port 3029
+[2025-04-08T18:01:11.265Z] LOG: 🚀 Server running on port 3047
+[2025-04-08T18:01:11.273Z] LOG: 🚀 Server running on port 3029
+[2025-04-08T18:01:11.276Z] LOG: 🚀 Server running on port 3046
+[2025-04-08T18:01:11.280Z] LOG: 🚀 Server running on port 3032
+[2025-04-08T18:01:11.302Z] LOG: ✅ DB Connected. Worker ready on port 3038
+[2025-04-08T18:01:11.336Z] LOG: 🚀 Server running on port 3038
+[2025-04-08T18:01:11.392Z] LOG: ✅ DB Connected. Worker ready on port 3036
+[2025-04-08T18:01:11.411Z] LOG: 🚀 Server running on port 3036
+[2025-04-08T18:01:11.463Z] LOG: ✅ DB Connected. Worker ready on port 3025
+[2025-04-08T18:01:11.474Z] LOG: 🚀 Server running on port 3025
+[2025-04-08T18:01:11.720Z] LOG: 🚀 Server running on port 3044
+[2025-04-08T18:01:11.839Z] LOG: ✅ DB Connected. Worker ready on port 3026
+[2025-04-08T18:01:11.846Z] LOG: 🚀 Server running on port 3026
+[2025-04-08T18:01:12.064Z] LOG: ✅ DB Connected. Worker ready on port 3031
+[2025-04-08T18:01:12.072Z] LOG: 🚀 Server running on port 3031
+[2025-04-08T18:01:12.542Z] LOG: ✅ DB Connected. Worker ready on port 3028
+[2025-04-08T18:01:12.549Z] LOG: 🚀 Server running on port 3028
+[2025-04-08T18:01:12.575Z] LOG: ✅ DB Connected. Worker ready on port 3027
+[2025-04-08T18:01:12.582Z] LOG: 🚀 Server running on port 3027
+[2025-04-08T18:01:16.810Z] LOG: ✅ DB Connected. Worker ready on port 3039
+[2025-04-08T18:01:16.818Z] LOG: 🚀 Server running on port 3039
+[2025-04-08T18:01:16.862Z] LOG: ✅ DB Connected. Worker ready on port 3037
+[2025-04-08T18:01:16.865Z] LOG: ✅ DB Connected. Worker ready on port 3041
+[2025-04-08T18:01:16.869Z] LOG: 🚀 Server running on port 3037
+[2025-04-08T18:01:16.873Z] LOG: 🚀 Server running on port 3041
+[2025-04-08T18:01:17.440Z] LOG: ✅ DB Connected. Worker ready on port 3034
+[2025-04-08T18:01:17.447Z] LOG: 🚀 Server running on port 3034
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:02:04.808Z
+⏰ Local Time (IST): 8/4/2025, 11:32:04 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 100 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:02:14.559Z
+⏰ Local Time (IST): 8/4/2025, 11:32:14 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 147 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:02:21.007Z
+⏰ Local Time (IST): 8/4/2025, 11:32:21 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3002
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 155 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:03:14.075Z
+⏰ Local Time (IST): 8/4/2025, 11:33:14 pm
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3003
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 135 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:06:24.516Z
+⏰ Local Time (IST): 8/4/2025, 11:36:24 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Failed
+🌐 IP Address: 127.0.0.1
+📥 Port: 3004
+💻 Device ID: PostmanRuntime/7.43.3
+
+❌ Error: read ECONNRESET
+=========================
+[2025-04-08T18:06:24.539Z] ERROR: {
+  "message": "read ECONNRESET",
+  "code": "ECONNRESET",
+  "errno": -4077
+}
+[2025-04-08T18:27:43.810Z] LOG: 🧠 Primary process started
+[2025-04-08T18:27:43.916Z] LOG: 🧵 Worker forked for port 3000
+[2025-04-08T18:27:43.994Z] LOG: 🧵 Worker forked for port 3001
+[2025-04-08T18:27:44.047Z] LOG: 🧵 Worker forked for port 3002
+[2025-04-08T18:27:44.070Z] LOG: 🧵 Worker forked for port 3003
+[2025-04-08T18:27:44.117Z] LOG: 🧵 Worker forked for port 3004
+[2025-04-08T18:27:44.138Z] LOG: 🧵 Worker forked for port 3005
+[2025-04-08T18:27:44.210Z] LOG: 🧵 Worker forked for port 3006
+[2025-04-08T18:27:44.249Z] LOG: 🧵 Worker forked for port 3007
+[2025-04-08T18:27:44.318Z] LOG: 🧵 Worker forked for port 3008
+[2025-04-08T18:27:44.367Z] LOG: 🧵 Worker forked for port 3009
+[2025-04-08T18:27:44.429Z] LOG: 🧵 Worker forked for port 3010
+[2025-04-08T18:27:44.439Z] LOG: 🧵 Worker forked for port 3011
+[2025-04-08T18:27:44.497Z] LOG: 🧵 Worker forked for port 3012
+[2025-04-08T18:27:44.516Z] LOG: 🧵 Worker forked for port 3013
+[2025-04-08T18:27:44.690Z] LOG: 🧵 Worker forked for port 3014
+[2025-04-08T18:27:44.809Z] LOG: 🧵 Worker forked for port 3015
+[2025-04-08T18:27:44.843Z] LOG: 🧵 Worker forked for port 3016
+[2025-04-08T18:27:44.997Z] LOG: 🧵 Worker forked for port 3017
+[2025-04-08T18:27:45.243Z] LOG: 🧵 Worker forked for port 3018
+[2025-04-08T18:27:45.331Z] LOG: 🧵 Worker forked for port 3019
+[2025-04-08T18:27:45.343Z] LOG: 🧵 Worker forked for port 3020
+[2025-04-08T18:27:45.488Z] LOG: 🧵 Worker forked for port 3021
+[2025-04-08T18:27:45.629Z] LOG: 🧵 Worker forked for port 3022
+[2025-04-08T18:27:45.704Z] LOG: 🧵 Worker forked for port 3023
+[2025-04-08T18:27:45.781Z] LOG: 🧵 Worker forked for port 3024
+[2025-04-08T18:27:45.797Z] LOG: 🧵 Worker forked for port 3025
+[2025-04-08T18:27:45.830Z] LOG: 🧵 Worker forked for port 3026
+[2025-04-08T18:27:45.896Z] LOG: 🧵 Worker forked for port 3027
+[2025-04-08T18:27:46.019Z] LOG: 🧵 Worker forked for port 3028
+[2025-04-08T18:27:46.223Z] LOG: 🧵 Worker forked for port 3029
+[2025-04-08T18:27:46.348Z] LOG: 🧵 Worker forked for port 3030
+[2025-04-08T18:27:46.615Z] LOG: 🧵 Worker forked for port 3031
+[2025-04-08T18:27:46.918Z] LOG: 🧵 Worker forked for port 3032
+[2025-04-08T18:27:47.131Z] LOG: 🧵 Worker forked for port 3033
+[2025-04-08T18:27:47.226Z] LOG: 🧵 Worker forked for port 3034
+[2025-04-08T18:27:47.463Z] LOG: 🧵 Worker forked for port 3035
+[2025-04-08T18:27:47.629Z] LOG: ✅ DB Connected. Worker ready on port 3002
+[2025-04-08T18:27:47.632Z] LOG: ✅ DB Connected. Worker ready on port 3000
+[2025-04-08T18:27:47.838Z] LOG: 🧵 Worker forked for port 3036
+[2025-04-08T18:27:48.012Z] LOG: 🧵 Worker forked for port 3037
+[2025-04-08T18:27:48.229Z] LOG: ✅ DB Connected. Worker ready on port 3006
+[2025-04-08T18:27:48.336Z] LOG: 🧵 Worker forked for port 3038
+[2025-04-08T18:27:48.431Z] LOG: ✅ DB Connected. Worker ready on port 3001
+[2025-04-08T18:27:48.585Z] LOG: ✅ DB Connected. Worker ready on port 3003
+[2025-04-08T18:27:48.621Z] LOG: 🧵 Worker forked for port 3039
+[2025-04-08T18:27:48.649Z] LOG: ✅ DB Connected. Worker ready on port 3004
+[2025-04-08T18:27:48.853Z] LOG: 🧵 Worker forked for port 3040
+[2025-04-08T18:27:48.947Z] LOG: ✅ DB Connected. Worker ready on port 3005
+[2025-04-08T18:27:49.012Z] LOG: 🧵 Worker forked for port 3041
+[2025-04-08T18:27:49.332Z] LOG: 🧵 Worker forked for port 3042
+[2025-04-08T18:27:49.341Z] LOG: 🧵 Worker forked for port 3043
+[2025-04-08T18:27:49.353Z] LOG: 🧵 Worker forked for port 3044
+[2025-04-08T18:27:49.373Z] LOG: 🧵 Worker forked for port 3045
+[2025-04-08T18:27:49.384Z] LOG: 🧵 Worker forked for port 3046
+[2025-04-08T18:27:49.432Z] LOG: ✅ DB Connected. Worker ready on port 3007
+[2025-04-08T18:27:49.730Z] LOG: 🧵 Worker forked for port 3047
+[2025-04-08T18:27:49.831Z] LOG: ✅ DB Connected. Worker ready on port 3011
+[2025-04-08T18:27:50.180Z] LOG: 🧵 Worker forked for port 3048
+[2025-04-08T18:27:50.471Z] LOG: ✅ DB Connected. Worker ready on port 3009
+[2025-04-08T18:27:50.489Z] LOG: 🧵 Worker forked for port 3049
+[2025-04-08T18:27:50.543Z] LOG: 🔁 Load balancer running on port 8000
+[2025-04-08T18:27:50.611Z] LOG: ✅ DB Connected. Worker ready on port 3008
+[2025-04-08T18:27:50.912Z] LOG: ✅ Active worker ports: 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049
+[2025-04-08T18:27:51.133Z] LOG: 🚀 Server running on port 3002
+[2025-04-08T18:27:51.134Z] LOG: 🚀 Server running on port 3000
+[2025-04-08T18:27:51.134Z] LOG: 🚀 Server running on port 3003
+[2025-04-08T18:27:51.138Z] LOG: 🚀 Server running on port 3001
+[2025-04-08T18:27:51.138Z] LOG: 🚀 Server running on port 3004
+[2025-04-08T18:27:51.139Z] LOG: 🚀 Server running on port 3005
+[2025-04-08T18:27:51.143Z] LOG: 🚀 Server running on port 3006
+[2025-04-08T18:27:51.145Z] LOG: 🚀 Server running on port 3007
+[2025-04-08T18:27:51.148Z] LOG: 🚀 Server running on port 3011
+[2025-04-08T18:27:51.147Z] LOG: 🚀 Server running on port 3009
+[2025-04-08T18:27:51.148Z] LOG: 🚀 Server running on port 3008
+[2025-04-08T18:27:51.703Z] LOG: ✅ DB Connected. Worker ready on port 3010
+[2025-04-08T18:27:52.050Z] LOG: 🚀 Server running on port 3010
+[2025-04-08T18:27:52.075Z] LOG: ✅ DB Connected. Worker ready on port 3012
+[2025-04-08T18:27:52.118Z] LOG: 🚀 Server running on port 3012
+[2025-04-08T18:27:53.992Z] LOG: ✅ DB Connected. Worker ready on port 3018
+[2025-04-08T18:27:54.002Z] LOG: 🚀 Server running on port 3018
+[2025-04-08T18:27:54.311Z] LOG: ✅ DB Connected. Worker ready on port 3017
+[2025-04-08T18:27:54.321Z] LOG: 🚀 Server running on port 3017
+[2025-04-08T18:27:54.345Z] LOG: ✅ DB Connected. Worker ready on port 3013
+[2025-04-08T18:27:54.346Z] LOG: ✅ DB Connected. Worker ready on port 3016
+[2025-04-08T18:27:54.355Z] LOG: 🚀 Server running on port 3016
+[2025-04-08T18:27:54.355Z] LOG: 🚀 Server running on port 3013
+[2025-04-08T18:27:56.351Z] LOG: ✅ DB Connected. Worker ready on port 3015
+[2025-04-08T18:27:56.352Z] LOG: ✅ DB Connected. Worker ready on port 3014
+[2025-04-08T18:27:56.525Z] LOG: 🚀 Server running on port 3015
+[2025-04-08T18:27:56.529Z] LOG: 🚀 Server running on port 3014
+[2025-04-08T18:27:56.818Z] LOG: ✅ DB Connected. Worker ready on port 3020
+[2025-04-08T18:27:56.826Z] LOG: 🚀 Server running on port 3020
+[2025-04-08T18:27:57.112Z] LOG: ✅ DB Connected. Worker ready on port 3024
+[2025-04-08T18:27:57.137Z] LOG: 🚀 Server running on port 3024
+[2025-04-08T18:27:57.952Z] LOG: ✅ DB Connected. Worker ready on port 3019
+[2025-04-08T18:27:57.960Z] LOG: 🚀 Server running on port 3019
+[2025-04-08T18:28:04.235Z] LOG: ✅ DB Connected. Worker ready on port 3031
+[2025-04-08T18:28:04.234Z] LOG: ✅ DB Connected. Worker ready on port 3028
+[2025-04-08T18:28:04.238Z] LOG: ✅ DB Connected. Worker ready on port 3022
+[2025-04-08T18:28:04.241Z] LOG: ✅ DB Connected. Worker ready on port 3029
+[2025-04-08T18:28:04.243Z] LOG: ✅ DB Connected. Worker ready on port 3023
+[2025-04-08T18:28:04.246Z] LOG: 🚀 Server running on port 3028
+[2025-04-08T18:28:04.245Z] LOG: 🚀 Server running on port 3031
+[2025-04-08T18:28:04.251Z] LOG: 🚀 Server running on port 3022
+[2025-04-08T18:28:04.253Z] LOG: 🚀 Server running on port 3029
+[2025-04-08T18:28:04.257Z] LOG: 🚀 Server running on port 3023
+[2025-04-08T18:28:07.312Z] LOG: ✅ DB Connected. Worker ready on port 3021
+[2025-04-08T18:28:07.912Z] LOG: ✅ DB Connected. Worker ready on port 3030
+[2025-04-08T18:28:07.982Z] LOG: ✅ DB Connected. Worker ready on port 3026
+[2025-04-08T18:28:08.100Z] LOG: 🚀 Server running on port 3021
+[2025-04-08T18:28:08.100Z] LOG: 🚀 Server running on port 3030
+[2025-04-08T18:28:08.102Z] LOG: 🚀 Server running on port 3026
+[2025-04-08T18:28:08.237Z] LOG: ✅ DB Connected. Worker ready on port 3027
+[2025-04-08T18:28:08.247Z] LOG: 🚀 Server running on port 3027
+[2025-04-08T18:28:12.961Z] LOG: ✅ DB Connected. Worker ready on port 3043
+[2025-04-08T18:28:13.039Z] LOG: ✅ DB Connected. Worker ready on port 3045
+[2025-04-08T18:28:13.145Z] LOG: 🚀 Server running on port 3045
+[2025-04-08T18:28:13.191Z] LOG: 🚀 Server running on port 3043
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:28:12.577Z
+⏰ Local Time (IST): 8/4/2025, 11:58:12 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 79 ms
+✅ No Errors
+=========================
+[2025-04-08T18:28:18.291Z] LOG: ✅ DB Connected. Worker ready on port 3042
+[2025-04-08T18:28:18.434Z] LOG: 🚀 Server running on port 3042
+[2025-04-08T18:28:18.448Z] LOG: ✅ DB Connected. Worker ready on port 3032
+[2025-04-08T18:28:18.521Z] LOG: ✅ DB Connected. Worker ready on port 3047
+[2025-04-08T18:28:18.533Z] LOG: ✅ DB Connected. Worker ready on port 3040
+[2025-04-08T18:28:18.533Z] LOG: ✅ DB Connected. Worker ready on port 3038
+[2025-04-08T18:28:18.520Z] LOG: ✅ DB Connected. Worker ready on port 3025
+[2025-04-08T18:28:18.579Z] LOG: ✅ DB Connected. Worker ready on port 3041
+[2025-04-08T18:28:18.634Z] LOG: 🚀 Server running on port 3032
+[2025-04-08T18:28:18.684Z] LOG: 🚀 Server running on port 3040
+[2025-04-08T18:28:18.704Z] LOG: ✅ DB Connected. Worker ready on port 3033
+[2025-04-08T18:28:18.731Z] LOG: ✅ DB Connected. Worker ready on port 3039
+[2025-04-08T18:28:18.749Z] LOG: 🚀 Server running on port 3041
+[2025-04-08T18:28:18.781Z] LOG: 🚀 Server running on port 3038
+[2025-04-08T18:28:18.789Z] LOG: 🚀 Server running on port 3047
+[2025-04-08T18:28:18.838Z] LOG: 🚀 Server running on port 3025
+[2025-04-08T18:28:18.871Z] LOG: ✅ DB Connected. Worker ready on port 3034
+[2025-04-08T18:28:18.936Z] LOG: 🚀 Server running on port 3033
+[2025-04-08T18:28:18.984Z] LOG: 🚀 Server running on port 3039
+[2025-04-08T18:28:19.015Z] LOG: ✅ DB Connected. Worker ready on port 3046
+[2025-04-08T18:28:19.572Z] LOG: 🚀 Server running on port 3034
+[2025-04-08T18:28:19.718Z] LOG: 🚀 Server running on port 3046
+[2025-04-08T18:28:20.078Z] LOG: ✅ DB Connected. Worker ready on port 3049
+[2025-04-08T18:28:20.081Z] LOG: ✅ DB Connected. Worker ready on port 3035
+[2025-04-08T18:28:20.082Z] LOG: ✅ DB Connected. Worker ready on port 3037
+[2025-04-08T18:28:20.094Z] LOG: 🚀 Server running on port 3037
+[2025-04-08T18:28:20.099Z] LOG: 🚀 Server running on port 3049
+[2025-04-08T18:28:20.112Z] LOG: 🚀 Server running on port 3035
+[2025-04-08T18:28:20.123Z] LOG: ✅ DB Connected. Worker ready on port 3044
+[2025-04-08T18:28:20.122Z] LOG: ✅ DB Connected. Worker ready on port 3036
+[2025-04-08T18:28:20.123Z] LOG: ✅ DB Connected. Worker ready on port 3048
+[2025-04-08T18:28:20.165Z] LOG: 🚀 Server running on port 3044
+[2025-04-08T18:28:20.169Z] LOG: 🚀 Server running on port 3036
+[2025-04-08T18:28:20.172Z] LOG: 🚀 Server running on port 3048
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:28:26.588Z
+⏰ Local Time (IST): 8/4/2025, 11:58:26 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 108 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:28:53.187Z
+⏰ Local Time (IST): 8/4/2025, 11:58:53 pm
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3002
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 142 ms
+✅ No Errors
+=========================
+[2025-04-08T18:42:05.861Z] LOG: 🧠 Primary process started
+[2025-04-08T18:42:05.878Z] LOG: 🧵 Worker forked for port 3000
+[2025-04-08T18:42:05.887Z] LOG: 🧵 Worker forked for port 3001
+[2025-04-08T18:42:05.900Z] LOG: 🧵 Worker forked for port 3002
+[2025-04-08T18:42:05.937Z] LOG: 🧵 Worker forked for port 3003
+[2025-04-08T18:42:05.946Z] LOG: 🧵 Worker forked for port 3004
+[2025-04-08T18:42:05.960Z] LOG: 🧵 Worker forked for port 3005
+[2025-04-08T18:42:05.972Z] LOG: 🧵 Worker forked for port 3006
+[2025-04-08T18:42:05.983Z] LOG: 🧵 Worker forked for port 3007
+[2025-04-08T18:42:05.995Z] LOG: 🧵 Worker forked for port 3008
+[2025-04-08T18:42:06.076Z] LOG: 🧵 Worker forked for port 3009
+[2025-04-08T18:42:06.095Z] LOG: 🧵 Worker forked for port 3010
+[2025-04-08T18:42:06.108Z] LOG: 🧵 Worker forked for port 3011
+[2025-04-08T18:42:06.130Z] LOG: 🧵 Worker forked for port 3012
+[2025-04-08T18:42:06.147Z] LOG: 🧵 Worker forked for port 3013
+[2025-04-08T18:42:06.167Z] LOG: 🧵 Worker forked for port 3014
+[2025-04-08T18:42:06.213Z] LOG: 🧵 Worker forked for port 3015
+[2025-04-08T18:42:06.340Z] LOG: 🧵 Worker forked for port 3016
+[2025-04-08T18:42:06.416Z] LOG: 🧵 Worker forked for port 3017
+[2025-04-08T18:42:06.481Z] LOG: 🧵 Worker forked for port 3018
+[2025-04-08T18:42:06.490Z] LOG: 🧵 Worker forked for port 3019
+[2025-04-08T18:42:06.585Z] LOG: 🧵 Worker forked for port 3020
+[2025-04-08T18:42:06.658Z] LOG: 🧵 Worker forked for port 3021
+[2025-04-08T18:42:06.780Z] LOG: 🧵 Worker forked for port 3022
+[2025-04-08T18:42:06.867Z] LOG: 🧵 Worker forked for port 3023
+[2025-04-08T18:42:06.881Z] LOG: 🧵 Worker forked for port 3024
+[2025-04-08T18:42:07.173Z] LOG: 🧵 Worker forked for port 3025
+[2025-04-08T18:42:07.443Z] LOG: 🧵 Worker forked for port 3026
+[2025-04-08T18:42:07.558Z] LOG: 🧵 Worker forked for port 3027
+[2025-04-08T18:42:07.574Z] LOG: 🧵 Worker forked for port 3028
+[2025-04-08T18:42:08.014Z] LOG: 🧵 Worker forked for port 3029
+[2025-04-08T18:42:08.200Z] LOG: 🧵 Worker forked for port 3030
+[2025-04-08T18:42:08.230Z] LOG: 🧵 Worker forked for port 3031
+[2025-04-08T18:42:08.481Z] LOG: 🧵 Worker forked for port 3032
+[2025-04-08T18:42:08.593Z] LOG: ✅ DB Connected. Worker ready on port 3002
+[2025-04-08T18:42:08.678Z] LOG: ✅ DB Connected. Worker ready on port 3001
+[2025-04-08T18:42:08.710Z] LOG: ✅ DB Connected. Worker ready on port 3003
+[2025-04-08T18:42:08.821Z] LOG: 🧵 Worker forked for port 3033
+[2025-04-08T18:42:08.855Z] LOG: 🧵 Worker forked for port 3034
+[2025-04-08T18:42:09.242Z] LOG: 🧵 Worker forked for port 3035
+[2025-04-08T18:42:09.264Z] LOG: 🧵 Worker forked for port 3036
+[2025-04-08T18:42:09.351Z] LOG: 🧵 Worker forked for port 3037
+[2025-04-08T18:42:09.390Z] LOG: ✅ DB Connected. Worker ready on port 3000
+[2025-04-08T18:42:09.427Z] LOG: ✅ DB Connected. Worker ready on port 3005
+[2025-04-08T18:42:09.535Z] LOG: ✅ DB Connected. Worker ready on port 3004
+[2025-04-08T18:42:09.562Z] LOG: 🧵 Worker forked for port 3038
+[2025-04-08T18:42:10.209Z] LOG: ✅ DB Connected. Worker ready on port 3008
+[2025-04-08T18:42:10.212Z] LOG: ✅ DB Connected. Worker ready on port 3006
+[2025-04-08T18:42:10.286Z] LOG: 🧵 Worker forked for port 3039
+[2025-04-08T18:42:10.406Z] LOG: ✅ DB Connected. Worker ready on port 3012
+[2025-04-08T18:42:10.521Z] LOG: 🧵 Worker forked for port 3040
+[2025-04-08T18:42:10.544Z] LOG: 🧵 Worker forked for port 3041
+[2025-04-08T18:42:10.560Z] LOG: ✅ DB Connected. Worker ready on port 3010
+[2025-04-08T18:42:10.599Z] LOG: ✅ DB Connected. Worker ready on port 3011
+[2025-04-08T18:42:10.650Z] LOG: 🧵 Worker forked for port 3042
+[2025-04-08T18:42:10.828Z] LOG: ✅ DB Connected. Worker ready on port 3007
+[2025-04-08T18:42:10.951Z] LOG: 🧵 Worker forked for port 3043
+[2025-04-08T18:42:11.567Z] LOG: 🧵 Worker forked for port 3044
+[2025-04-08T18:42:11.881Z] LOG: 🧵 Worker forked for port 3045
+[2025-04-08T18:42:12.381Z] LOG: ✅ DB Connected. Worker ready on port 3013
+[2025-04-08T18:42:12.382Z] LOG: ✅ DB Connected. Worker ready on port 3014
+[2025-04-08T18:42:12.385Z] LOG: ✅ DB Connected. Worker ready on port 3015
+[2025-04-08T18:42:12.386Z] LOG: ✅ DB Connected. Worker ready on port 3017
+[2025-04-08T18:42:12.476Z] LOG: ✅ DB Connected. Worker ready on port 3016
+[2025-04-08T18:42:12.475Z] LOG: ✅ DB Connected. Worker ready on port 3024
+[2025-04-08T18:42:12.562Z] LOG: 🧵 Worker forked for port 3046
+[2025-04-08T18:42:13.077Z] LOG: 🧵 Worker forked for port 3047
+[2025-04-08T18:42:13.086Z] LOG: 🧵 Worker forked for port 3048
+[2025-04-08T18:42:13.096Z] LOG: 🧵 Worker forked for port 3049
+[2025-04-08T18:42:13.275Z] LOG: 🔁 Load balancer running on port 8000
+[2025-04-08T18:42:13.437Z] LOG: ✅ Active worker ports: 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049
+[2025-04-08T18:42:13.903Z] LOG: 🚀 Server running on port 3000
+[2025-04-08T18:42:13.904Z] LOG: 🚀 Server running on port 3002
+[2025-04-08T18:42:13.904Z] LOG: 🚀 Server running on port 3001
+[2025-04-08T18:42:13.906Z] LOG: 🚀 Server running on port 3003
+[2025-04-08T18:42:13.907Z] LOG: 🚀 Server running on port 3004
+[2025-04-08T18:42:13.912Z] LOG: 🚀 Server running on port 3006
+[2025-04-08T18:42:13.916Z] LOG: 🚀 Server running on port 3005
+[2025-04-08T18:42:13.917Z] LOG: 🚀 Server running on port 3007
+[2025-04-08T18:42:13.922Z] LOG: 🚀 Server running on port 3008
+[2025-04-08T18:42:13.926Z] LOG: 🚀 Server running on port 3010
+[2025-04-08T18:42:13.928Z] LOG: 🚀 Server running on port 3012
+[2025-04-08T18:42:13.931Z] LOG: 🚀 Server running on port 3011
+[2025-04-08T18:42:13.936Z] LOG: 🚀 Server running on port 3013
+[2025-04-08T18:42:13.937Z] LOG: 🚀 Server running on port 3016
+[2025-04-08T18:42:13.939Z] LOG: 🚀 Server running on port 3024
+[2025-04-08T18:42:14.329Z] LOG: ✅ DB Connected. Worker ready on port 3009
+[2025-04-08T18:42:14.787Z] LOG: 🚀 Server running on port 3015
+[2025-04-08T18:42:14.804Z] LOG: 🚀 Server running on port 3017
+[2025-04-08T18:42:14.822Z] LOG: 🚀 Server running on port 3014
+[2025-04-08T18:42:15.478Z] LOG: ✅ DB Connected. Worker ready on port 3019
+[2025-04-08T18:42:15.521Z] LOG: ✅ DB Connected. Worker ready on port 3021
+[2025-04-08T18:42:15.642Z] LOG: ✅ DB Connected. Worker ready on port 3018
+[2025-04-08T18:42:15.706Z] LOG: 🚀 Server running on port 3019
+[2025-04-08T18:42:15.707Z] LOG: 🚀 Server running on port 3021
+[2025-04-08T18:42:15.720Z] LOG: 🚀 Server running on port 3018
+[2025-04-08T18:42:16.560Z] LOG: ✅ DB Connected. Worker ready on port 3022
+[2025-04-08T18:42:16.661Z] LOG: 🚀 Server running on port 3009
+[2025-04-08T18:42:16.711Z] LOG: ✅ DB Connected. Worker ready on port 3025
+[2025-04-08T18:42:16.758Z] LOG: 🚀 Server running on port 3022
+[2025-04-08T18:42:16.766Z] LOG: 🚀 Server running on port 3025
+[2025-04-08T18:42:17.238Z] LOG: ✅ DB Connected. Worker ready on port 3023
+[2025-04-08T18:42:17.796Z] LOG: ✅ DB Connected. Worker ready on port 3020
+[2025-04-08T18:42:17.896Z] LOG: 🚀 Server running on port 3023
+[2025-04-08T18:42:17.952Z] LOG: 🚀 Server running on port 3020
+[2025-04-08T18:42:29.242Z] LOG: ✅ DB Connected. Worker ready on port 3034
+[2025-04-08T18:42:29.250Z] LOG: ✅ DB Connected. Worker ready on port 3031
+[2025-04-08T18:42:29.301Z] LOG: ✅ DB Connected. Worker ready on port 3030
+[2025-04-08T18:42:29.291Z] LOG: ✅ DB Connected. Worker ready on port 3041
+[2025-04-08T18:42:29.291Z] LOG: ✅ DB Connected. Worker ready on port 3033
+[2025-04-08T18:42:29.292Z] LOG: ✅ DB Connected. Worker ready on port 3032
+[2025-04-08T18:42:29.315Z] LOG: 🚀 Server running on port 3031
+[2025-04-08T18:42:29.316Z] LOG: 🚀 Server running on port 3041
+[2025-04-08T18:42:29.316Z] LOG: 🚀 Server running on port 3033
+[2025-04-08T18:42:29.318Z] LOG: 🚀 Server running on port 3030
+[2025-04-08T18:42:29.318Z] LOG: 🚀 Server running on port 3032
+[2025-04-08T18:42:29.356Z] LOG: 🚀 Server running on port 3034
+[2025-04-08T18:42:29.377Z] LOG: ✅ DB Connected. Worker ready on port 3026
+[2025-04-08T18:42:29.378Z] LOG: ✅ DB Connected. Worker ready on port 3035
+[2025-04-08T18:42:29.378Z] LOG: ✅ DB Connected. Worker ready on port 3028
+[2025-04-08T18:42:29.379Z] LOG: ✅ DB Connected. Worker ready on port 3027
+[2025-04-08T18:42:29.387Z] LOG: 🚀 Server running on port 3026
+[2025-04-08T18:42:29.387Z] LOG: 🚀 Server running on port 3035
+[2025-04-08T18:42:29.388Z] LOG: 🚀 Server running on port 3028
+[2025-04-08T18:42:29.390Z] LOG: 🚀 Server running on port 3027
+[2025-04-08T18:42:29.396Z] LOG: ✅ DB Connected. Worker ready on port 3037
+[2025-04-08T18:42:29.404Z] LOG: 🚀 Server running on port 3037
+[2025-04-08T18:42:29.642Z] LOG: ✅ DB Connected. Worker ready on port 3029
+[2025-04-08T18:42:29.650Z] LOG: 🚀 Server running on port 3029
+[2025-04-08T18:42:30.404Z] LOG: ✅ DB Connected. Worker ready on port 3036
+[2025-04-08T18:42:30.420Z] LOG: 🚀 Server running on port 3036
+[2025-04-08T18:42:32.919Z] LOG: ✅ DB Connected. Worker ready on port 3038
+[2025-04-08T18:42:32.928Z] LOG: 🚀 Server running on port 3038
+[2025-04-08T18:42:33.778Z] LOG: ✅ DB Connected. Worker ready on port 3044
+[2025-04-08T18:42:33.790Z] LOG: 🚀 Server running on port 3044
+[2025-04-08T18:42:34.163Z] LOG: ✅ DB Connected. Worker ready on port 3039
+[2025-04-08T18:42:34.173Z] LOG: 🚀 Server running on port 3039
+[2025-04-08T18:42:34.760Z] LOG: ✅ DB Connected. Worker ready on port 3043
+[2025-04-08T18:42:34.798Z] LOG: 🚀 Server running on port 3043
+[2025-04-08T18:42:35.720Z] LOG: ✅ DB Connected. Worker ready on port 3040
+[2025-04-08T18:42:35.729Z] LOG: 🚀 Server running on port 3040
+[2025-04-08T18:42:36.279Z] LOG: ✅ DB Connected. Worker ready on port 3049
+[2025-04-08T18:42:36.120Z] LOG: ✅ DB Connected. Worker ready on port 3042
+[2025-04-08T18:42:36.880Z] LOG: 🚀 Server running on port 3042
+[2025-04-08T18:42:36.909Z] LOG: 🚀 Server running on port 3049
+[2025-04-08T18:42:38.678Z] LOG: ✅ DB Connected. Worker ready on port 3048
+[2025-04-08T18:42:38.686Z] LOG: 🚀 Server running on port 3048
+[2025-04-08T18:42:38.991Z] LOG: ✅ DB Connected. Worker ready on port 3045
+[2025-04-08T18:42:38.999Z] LOG: 🚀 Server running on port 3045
+[2025-04-08T18:42:39.479Z] LOG: ✅ DB Connected. Worker ready on port 3047
+[2025-04-08T18:42:39.486Z] LOG: 🚀 Server running on port 3047
+[2025-04-08T18:42:40.378Z] LOG: ✅ DB Connected. Worker ready on port 3046
+[2025-04-08T18:42:40.386Z] LOG: 🚀 Server running on port 3046
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:42:52.447Z
+⏰ Local Time (IST): 9/4/2025, 12:12:52 am
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 117 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:42:58.473Z
+⏰ Local Time (IST): 9/4/2025, 12:12:58 am
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Failed
+🌐 IP Address: 127.0.0.1
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 108 ms
+❌ Error: No user found with ID 001
+=========================
+[2025-04-08T18:46:07.747Z] LOG: 🧠 Primary process started
+[2025-04-08T18:46:07.764Z] LOG: 🧵 Worker forked for port 3000
+[2025-04-08T18:46:07.773Z] LOG: 🧵 Worker forked for port 3001
+[2025-04-08T18:46:07.781Z] LOG: 🧵 Worker forked for port 3002
+[2025-04-08T18:46:07.798Z] LOG: 🧵 Worker forked for port 3003
+[2025-04-08T18:46:07.807Z] LOG: 🧵 Worker forked for port 3004
+[2025-04-08T18:46:07.814Z] LOG: 🧵 Worker forked for port 3005
+[2025-04-08T18:46:07.845Z] LOG: 🧵 Worker forked for port 3006
+[2025-04-08T18:46:07.857Z] LOG: 🧵 Worker forked for port 3007
+[2025-04-08T18:46:07.865Z] LOG: 🧵 Worker forked for port 3008
+[2025-04-08T18:46:07.911Z] LOG: 🧵 Worker forked for port 3009
+[2025-04-08T18:46:07.921Z] LOG: 🧵 Worker forked for port 3010
+[2025-04-08T18:46:07.929Z] LOG: 🧵 Worker forked for port 3011
+[2025-04-08T18:46:07.943Z] LOG: 🧵 Worker forked for port 3012
+[2025-04-08T18:46:07.975Z] LOG: 🧵 Worker forked for port 3013
+[2025-04-08T18:46:07.982Z] LOG: 🧵 Worker forked for port 3014
+[2025-04-08T18:46:07.990Z] LOG: 🧵 Worker forked for port 3015
+[2025-04-08T18:46:07.997Z] LOG: 🧵 Worker forked for port 3016
+[2025-04-08T18:46:08.013Z] LOG: 🧵 Worker forked for port 3017
+[2025-04-08T18:46:08.024Z] LOG: 🧵 Worker forked for port 3018
+[2025-04-08T18:46:08.050Z] LOG: 🧵 Worker forked for port 3019
+[2025-04-08T18:46:08.062Z] LOG: 🧵 Worker forked for port 3020
+[2025-04-08T18:46:08.070Z] LOG: 🧵 Worker forked for port 3021
+[2025-04-08T18:46:08.078Z] LOG: 🧵 Worker forked for port 3022
+[2025-04-08T18:46:08.186Z] LOG: 🧵 Worker forked for port 3023
+[2025-04-08T18:46:08.193Z] LOG: 🧵 Worker forked for port 3024
+[2025-04-08T18:46:08.201Z] LOG: 🧵 Worker forked for port 3025
+[2025-04-08T18:46:08.209Z] LOG: 🧵 Worker forked for port 3026
+[2025-04-08T18:46:08.217Z] LOG: 🧵 Worker forked for port 3027
+[2025-04-08T18:46:08.225Z] LOG: 🧵 Worker forked for port 3028
+[2025-04-08T18:46:08.232Z] LOG: 🧵 Worker forked for port 3029
+[2025-04-08T18:46:08.240Z] LOG: 🧵 Worker forked for port 3030
+[2025-04-08T18:46:08.395Z] LOG: 🧵 Worker forked for port 3031
+[2025-04-08T18:46:08.402Z] LOG: 🧵 Worker forked for port 3032
+[2025-04-08T18:46:08.411Z] LOG: 🧵 Worker forked for port 3033
+[2025-04-08T18:46:08.419Z] LOG: 🧵 Worker forked for port 3034
+[2025-04-08T18:46:08.428Z] LOG: 🧵 Worker forked for port 3035
+[2025-04-08T18:46:08.555Z] LOG: 🧵 Worker forked for port 3036
+[2025-04-08T18:46:08.562Z] LOG: 🧵 Worker forked for port 3037
+[2025-04-08T18:46:08.572Z] LOG: 🧵 Worker forked for port 3038
+[2025-04-08T18:46:08.772Z] LOG: 🧵 Worker forked for port 3039
+[2025-04-08T18:46:09.084Z] LOG: 🧵 Worker forked for port 3040
+[2025-04-08T18:46:09.367Z] LOG: 🧵 Worker forked for port 3041
+[2025-04-08T18:46:09.403Z] LOG: 🧵 Worker forked for port 3042
+[2025-04-08T18:46:09.499Z] LOG: 🧵 Worker forked for port 3043
+[2025-04-08T18:46:09.591Z] LOG: 🧵 Worker forked for port 3044
+[2025-04-08T18:46:09.615Z] LOG: 🧵 Worker forked for port 3045
+[2025-04-08T18:46:09.756Z] LOG: 🧵 Worker forked for port 3046
+[2025-04-08T18:46:10.245Z] LOG: 🧵 Worker forked for port 3047
+[2025-04-08T18:46:10.773Z] LOG: 🧵 Worker forked for port 3048
+[2025-04-08T18:46:11.509Z] LOG: 🧵 Worker forked for port 3049
+[2025-04-08T18:46:11.795Z] LOG: 🔁 Load balancer running on port 8000
+[2025-04-08T18:46:11.997Z] LOG: ✅ Active worker ports: 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049
+[2025-04-08T18:46:12.242Z] LOG: ✅ DB Connected. Worker ready on port 3008
+[2025-04-08T18:46:12.248Z] LOG: ✅ DB Connected. Worker ready on port 3005
+[2025-04-08T18:46:12.249Z] LOG: ✅ DB Connected. Worker ready on port 3006
+[2025-04-08T18:46:12.250Z] LOG: ✅ DB Connected. Worker ready on port 3000
+[2025-04-08T18:46:12.251Z] LOG: ✅ DB Connected. Worker ready on port 3007
+[2025-04-08T18:46:12.502Z] LOG: 🚀 Server running on port 3000
+[2025-04-08T18:46:12.503Z] LOG: 🚀 Server running on port 3005
+[2025-04-08T18:46:12.507Z] LOG: 🚀 Server running on port 3007
+[2025-04-08T18:46:12.510Z] LOG: 🚀 Server running on port 3006
+[2025-04-08T18:46:12.511Z] LOG: 🚀 Server running on port 3008
+[2025-04-08T18:46:13.603Z] LOG: ✅ DB Connected. Worker ready on port 3003
+[2025-04-08T18:46:13.612Z] LOG: 🚀 Server running on port 3003
+[2025-04-08T18:46:13.757Z] LOG: ✅ DB Connected. Worker ready on port 3002
+[2025-04-08T18:46:13.764Z] LOG: 🚀 Server running on port 3002
+[2025-04-08T18:46:13.772Z] LOG: ✅ DB Connected. Worker ready on port 3004
+[2025-04-08T18:46:13.780Z] LOG: 🚀 Server running on port 3004
+[2025-04-08T18:46:14.044Z] LOG: ✅ DB Connected. Worker ready on port 3010
+[2025-04-08T18:46:14.050Z] LOG: 🚀 Server running on port 3010
+[2025-04-08T18:46:14.079Z] LOG: ✅ DB Connected. Worker ready on port 3013
+[2025-04-08T18:46:14.085Z] LOG: 🚀 Server running on port 3013
+[2025-04-08T18:46:14.397Z] LOG: ✅ DB Connected. Worker ready on port 3014
+[2025-04-08T18:46:14.404Z] LOG: 🚀 Server running on port 3014
+[2025-04-08T18:46:16.356Z] LOG: ✅ DB Connected. Worker ready on port 3023
+[2025-04-08T18:46:16.359Z] LOG: ✅ DB Connected. Worker ready on port 3028
+[2025-04-08T18:46:16.364Z] LOG: ✅ DB Connected. Worker ready on port 3001
+[2025-04-08T18:46:16.369Z] LOG: 🚀 Server running on port 3028
+[2025-04-08T18:46:16.371Z] LOG: 🚀 Server running on port 3023
+[2025-04-08T18:46:16.374Z] LOG: 🚀 Server running on port 3001
+[2025-04-08T18:46:17.397Z] LOG: ✅ DB Connected. Worker ready on port 3037
+[2025-04-08T18:46:18.011Z] LOG: ✅ DB Connected. Worker ready on port 3035
+[2025-04-08T18:46:21.707Z] LOG: 🚀 Server running on port 3037
+[2025-04-08T18:46:21.707Z] LOG: 🚀 Server running on port 3035
+[2025-04-08T18:46:22.621Z] LOG: ✅ DB Connected. Worker ready on port 3012
+[2025-04-08T18:46:22.621Z] LOG: ✅ DB Connected. Worker ready on port 3015
+[2025-04-08T18:46:22.622Z] LOG: ✅ DB Connected. Worker ready on port 3031
+[2025-04-08T18:46:22.623Z] LOG: ✅ DB Connected. Worker ready on port 3017
+[2025-04-08T18:46:22.641Z] LOG: ✅ DB Connected. Worker ready on port 3011
+[2025-04-08T18:46:22.642Z] LOG: ✅ DB Connected. Worker ready on port 3021
+[2025-04-08T18:46:22.678Z] LOG: ✅ DB Connected. Worker ready on port 3009
+[2025-04-08T18:46:22.678Z] LOG: ✅ DB Connected. Worker ready on port 3024
+[2025-04-08T18:46:22.684Z] LOG: ✅ DB Connected. Worker ready on port 3029
+[2025-04-08T18:46:22.684Z] LOG: ✅ DB Connected. Worker ready on port 3026
+[2025-04-08T18:46:23.060Z] LOG: 🚀 Server running on port 3012
+[2025-04-08T18:46:23.079Z] LOG: 🚀 Server running on port 3026
+[2025-04-08T18:46:23.093Z] LOG: 🚀 Server running on port 3017
+[2025-04-08T18:46:23.124Z] LOG: 🚀 Server running on port 3029
+[2025-04-08T18:46:23.131Z] LOG: 🚀 Server running on port 3024
+[2025-04-08T18:46:23.417Z] LOG: 🚀 Server running on port 3015
+[2025-04-08T18:46:23.425Z] LOG: 🚀 Server running on port 3009
+[2025-04-08T18:46:23.427Z] LOG: 🚀 Server running on port 3011
+[2025-04-08T18:46:23.444Z] LOG: 🚀 Server running on port 3031
+[2025-04-08T18:46:23.459Z] LOG: 🚀 Server running on port 3021
+[2025-04-08T18:46:23.882Z] LOG: ✅ DB Connected. Worker ready on port 3022
+[2025-04-08T18:46:23.900Z] LOG: 🚀 Server running on port 3022
+[2025-04-08T18:46:23.953Z] LOG: ✅ DB Connected. Worker ready on port 3040
+[2025-04-08T18:46:23.959Z] LOG: ✅ DB Connected. Worker ready on port 3033
+[2025-04-08T18:46:23.965Z] LOG: 🚀 Server running on port 3040
+[2025-04-08T18:46:23.974Z] LOG: 🚀 Server running on port 3033
+[2025-04-08T18:46:24.479Z] LOG: ✅ DB Connected. Worker ready on port 3016
+[2025-04-08T18:46:24.555Z] LOG: ✅ DB Connected. Worker ready on port 3018
+[2025-04-08T18:46:24.488Z] LOG: 🚀 Server running on port 3016
+[2025-04-08T18:46:24.795Z] LOG: ✅ DB Connected. Worker ready on port 3019
+[2025-04-08T18:46:24.914Z] LOG: ✅ DB Connected. Worker ready on port 3038
+[2025-04-08T18:46:24.959Z] LOG: ✅ DB Connected. Worker ready on port 3036
+[2025-04-08T18:46:24.994Z] LOG: ✅ DB Connected. Worker ready on port 3030
+[2025-04-08T18:46:25.106Z] LOG: ✅ DB Connected. Worker ready on port 3027
+[2025-04-08T18:46:25.116Z] LOG: ✅ DB Connected. Worker ready on port 3034
+[2025-04-08T18:46:25.155Z] LOG: ✅ DB Connected. Worker ready on port 3025
+[2025-04-08T18:46:25.112Z] LOG: ✅ DB Connected. Worker ready on port 3046
+[2025-04-08T18:46:25.319Z] LOG: ✅ DB Connected. Worker ready on port 3020
+[2025-04-08T18:46:25.321Z] LOG: ✅ DB Connected. Worker ready on port 3042
+[2025-04-08T18:46:25.442Z] LOG: 🚀 Server running on port 3019
+[2025-04-08T18:46:25.443Z] LOG: 🚀 Server running on port 3034
+[2025-04-08T18:46:25.444Z] LOG: 🚀 Server running on port 3025
+[2025-04-08T18:46:25.566Z] LOG: 🚀 Server running on port 3036
+[2025-04-08T18:46:25.596Z] LOG: 🚀 Server running on port 3027
+[2025-04-08T18:46:25.648Z] LOG: 🚀 Server running on port 3030
+[2025-04-08T18:46:25.650Z] LOG: 🚀 Server running on port 3020
+[2025-04-08T18:46:25.675Z] LOG: 🚀 Server running on port 3046
+[2025-04-08T18:46:25.731Z] LOG: 🚀 Server running on port 3018
+[2025-04-08T18:46:25.742Z] LOG: 🚀 Server running on port 3038
+[2025-04-08T18:46:25.772Z] LOG: 🚀 Server running on port 3042
+[2025-04-08T18:46:29.408Z] LOG: ✅ DB Connected. Worker ready on port 3045
+[2025-04-08T18:46:29.413Z] LOG: ✅ DB Connected. Worker ready on port 3044
+[2025-04-08T18:46:29.420Z] LOG: 🚀 Server running on port 3045
+[2025-04-08T18:46:29.422Z] LOG: 🚀 Server running on port 3044
+[2025-04-08T18:46:29.453Z] LOG: ✅ DB Connected. Worker ready on port 3043
+[2025-04-08T18:46:29.455Z] LOG: ✅ DB Connected. Worker ready on port 3041
+[2025-04-08T18:46:29.455Z] LOG: ✅ DB Connected. Worker ready on port 3032
+[2025-04-08T18:46:29.456Z] LOG: ✅ DB Connected. Worker ready on port 3039
+[2025-04-08T18:46:29.458Z] LOG: ✅ DB Connected. Worker ready on port 3049
+[2025-04-08T18:46:29.458Z] LOG: ✅ DB Connected. Worker ready on port 3048
+[2025-04-08T18:46:29.469Z] LOG: 🚀 Server running on port 3041
+[2025-04-08T18:46:29.469Z] LOG: 🚀 Server running on port 3043
+[2025-04-08T18:46:29.471Z] LOG: 🚀 Server running on port 3032
+[2025-04-08T18:46:29.479Z] LOG: 🚀 Server running on port 3049
+[2025-04-08T18:46:29.483Z] LOG: 🚀 Server running on port 3048
+[2025-04-08T18:46:29.489Z] LOG: 🚀 Server running on port 3039
+[2025-04-08T18:46:31.067Z] LOG: ✅ DB Connected. Worker ready on port 3047
+[2025-04-08T18:46:31.074Z] LOG: 🚀 Server running on port 3047
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:46:44.634Z
+⏰ Local Time (IST): 9/4/2025, 12:16:44 am
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 107 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:46:50.601Z
+⏰ Local Time (IST): 9/4/2025, 12:16:50 am
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Failed
+🌐 IP Address: 127.0.0.1
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 103 ms
+❌ Error: No user found with ID 001
+=========================
+[2025-04-08T18:52:11.397Z] LOG: 🧠 Primary process started
+[2025-04-08T18:52:11.424Z] LOG: 🧵 Worker forked for port 3000
+[2025-04-08T18:52:11.431Z] LOG: 🧵 Worker forked for port 3001
+[2025-04-08T18:52:11.441Z] LOG: 🧵 Worker forked for port 3002
+[2025-04-08T18:52:11.465Z] LOG: 🧵 Worker forked for port 3003
+[2025-04-08T18:52:11.479Z] LOG: 🧵 Worker forked for port 3004
+[2025-04-08T18:52:11.491Z] LOG: 🧵 Worker forked for port 3005
+[2025-04-08T18:52:11.513Z] LOG: 🧵 Worker forked for port 3006
+[2025-04-08T18:52:11.522Z] LOG: 🧵 Worker forked for port 3007
+[2025-04-08T18:52:11.576Z] LOG: 🧵 Worker forked for port 3008
+[2025-04-08T18:52:11.611Z] LOG: 🧵 Worker forked for port 3009
+[2025-04-08T18:52:11.644Z] LOG: 🧵 Worker forked for port 3010
+[2025-04-08T18:52:11.661Z] LOG: 🧵 Worker forked for port 3011
+[2025-04-08T18:52:11.683Z] LOG: 🧵 Worker forked for port 3012
+[2025-04-08T18:52:11.780Z] LOG: 🧵 Worker forked for port 3013
+[2025-04-08T18:52:11.787Z] LOG: 🧵 Worker forked for port 3014
+[2025-04-08T18:52:11.794Z] LOG: 🧵 Worker forked for port 3015
+[2025-04-08T18:52:11.822Z] LOG: 🧵 Worker forked for port 3016
+[2025-04-08T18:52:11.833Z] LOG: 🧵 Worker forked for port 3017
+[2025-04-08T18:52:11.843Z] LOG: 🧵 Worker forked for port 3018
+[2025-04-08T18:52:11.851Z] LOG: 🧵 Worker forked for port 3019
+[2025-04-08T18:52:11.860Z] LOG: 🧵 Worker forked for port 3020
+[2025-04-08T18:52:11.868Z] LOG: 🧵 Worker forked for port 3021
+[2025-04-08T18:52:11.916Z] LOG: 🧵 Worker forked for port 3022
+[2025-04-08T18:52:11.924Z] LOG: 🧵 Worker forked for port 3023
+[2025-04-08T18:52:11.931Z] LOG: 🧵 Worker forked for port 3024
+[2025-04-08T18:52:11.938Z] LOG: 🧵 Worker forked for port 3025
+[2025-04-08T18:52:11.992Z] LOG: 🧵 Worker forked for port 3026
+[2025-04-08T18:52:12.002Z] LOG: 🧵 Worker forked for port 3027
+[2025-04-08T18:52:12.127Z] LOG: 🧵 Worker forked for port 3028
+[2025-04-08T18:52:12.312Z] LOG: 🧵 Worker forked for port 3029
+[2025-04-08T18:52:12.373Z] LOG: 🧵 Worker forked for port 3030
+[2025-04-08T18:52:12.380Z] LOG: 🧵 Worker forked for port 3031
+[2025-04-08T18:52:12.387Z] LOG: 🧵 Worker forked for port 3032
+[2025-04-08T18:52:12.396Z] LOG: 🧵 Worker forked for port 3033
+[2025-04-08T18:52:12.404Z] LOG: 🧵 Worker forked for port 3034
+[2025-04-08T18:52:12.625Z] LOG: 🧵 Worker forked for port 3035
+[2025-04-08T18:52:12.635Z] LOG: 🧵 Worker forked for port 3036
+[2025-04-08T18:52:12.752Z] LOG: 🧵 Worker forked for port 3037
+[2025-04-08T18:52:12.773Z] LOG: 🧵 Worker forked for port 3038
+[2025-04-08T18:52:12.900Z] LOG: 🧵 Worker forked for port 3039
+[2025-04-08T18:52:12.926Z] LOG: 🧵 Worker forked for port 3040
+[2025-04-08T18:52:13.045Z] LOG: 🧵 Worker forked for port 3041
+[2025-04-08T18:52:13.341Z] LOG: 🧵 Worker forked for port 3042
+[2025-04-08T18:52:13.367Z] LOG: 🧵 Worker forked for port 3043
+[2025-04-08T18:52:13.561Z] LOG: 🧵 Worker forked for port 3044
+[2025-04-08T18:52:13.699Z] LOG: 🧵 Worker forked for port 3045
+[2025-04-08T18:52:13.713Z] LOG: 🧵 Worker forked for port 3046
+[2025-04-08T18:52:13.722Z] LOG: 🧵 Worker forked for port 3047
+[2025-04-08T18:52:13.971Z] LOG: 🧵 Worker forked for port 3048
+[2025-04-08T18:52:14.236Z] LOG: 🧵 Worker forked for port 3049
+[2025-04-08T18:52:14.343Z] LOG: 🔁 Load balancer running on port 8000
+[2025-04-08T18:52:14.351Z] LOG: ✅ Active worker ports: 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049
+[2025-04-08T18:52:14.364Z] LOG: ✅ DB Connected. Worker ready on port 3004
+[2025-04-08T18:52:14.367Z] LOG: ✅ DB Connected. Worker ready on port 3002
+[2025-04-08T18:52:14.525Z] LOG: 🚀 Server running on port 3004
+[2025-04-08T18:52:14.528Z] LOG: 🚀 Server running on port 3002
+[2025-04-08T18:52:14.799Z] LOG: ✅ DB Connected. Worker ready on port 3005
+[2025-04-08T18:52:15.041Z] LOG: ✅ DB Connected. Worker ready on port 3000
+[2025-04-08T18:52:15.093Z] LOG: 🚀 Server running on port 3000
+[2025-04-08T18:52:15.359Z] LOG: 🚀 Server running on port 3005
+[2025-04-08T18:52:15.960Z] LOG: ✅ DB Connected. Worker ready on port 3006
+[2025-04-08T18:52:16.069Z] LOG: ✅ DB Connected. Worker ready on port 3003
+[2025-04-08T18:52:16.244Z] LOG: ✅ DB Connected. Worker ready on port 3001
+[2025-04-08T18:52:16.296Z] LOG: 🚀 Server running on port 3003
+[2025-04-08T18:52:16.305Z] LOG: 🚀 Server running on port 3001
+[2025-04-08T18:52:16.640Z] LOG: ✅ DB Connected. Worker ready on port 3011
+[2025-04-08T18:52:17.125Z] LOG: ✅ DB Connected. Worker ready on port 3016
+[2025-04-08T18:52:17.128Z] LOG: ✅ DB Connected. Worker ready on port 3017
+[2025-04-08T18:52:17.133Z] LOG: ✅ DB Connected. Worker ready on port 3023
+[2025-04-08T18:52:17.302Z] LOG: 🚀 Server running on port 3016
+[2025-04-08T18:52:17.322Z] LOG: 🚀 Server running on port 3023
+[2025-04-08T18:52:17.322Z] LOG: 🚀 Server running on port 3017
+[2025-04-08T18:52:17.364Z] LOG: ✅ DB Connected. Worker ready on port 3010
+[2025-04-08T18:52:17.366Z] LOG: ✅ DB Connected. Worker ready on port 3008
+[2025-04-08T18:52:17.371Z] LOG: ✅ DB Connected. Worker ready on port 3014
+[2025-04-08T18:52:17.509Z] LOG: 🚀 Server running on port 3006
+[2025-04-08T18:52:17.546Z] LOG: 🚀 Server running on port 3010
+[2025-04-08T18:52:17.550Z] LOG: 🚀 Server running on port 3014
+[2025-04-08T18:52:17.554Z] LOG: 🚀 Server running on port 3008
+[2025-04-08T18:52:17.719Z] LOG: ✅ DB Connected. Worker ready on port 3013
+[2025-04-08T18:52:17.958Z] LOG: ✅ DB Connected. Worker ready on port 3009
+[2025-04-08T18:52:17.961Z] LOG: ✅ DB Connected. Worker ready on port 3007
+[2025-04-08T18:52:18.019Z] LOG: 🚀 Server running on port 3007
+[2025-04-08T18:52:18.018Z] LOG: 🚀 Server running on port 3009
+[2025-04-08T18:52:18.200Z] LOG: 🚀 Server running on port 3011
+[2025-04-08T18:52:18.512Z] LOG: 🚀 Server running on port 3013
+[2025-04-08T18:52:19.539Z] LOG: ✅ DB Connected. Worker ready on port 3012
+[2025-04-08T18:52:19.547Z] LOG: 🚀 Server running on port 3012
+[2025-04-08T18:52:20.279Z] LOG: ✅ DB Connected. Worker ready on port 3015
+[2025-04-08T18:52:20.281Z] LOG: ✅ DB Connected. Worker ready on port 3018
+[2025-04-08T18:52:20.290Z] LOG: 🚀 Server running on port 3015
+[2025-04-08T18:52:20.293Z] LOG: 🚀 Server running on port 3018
+[2025-04-08T18:52:20.363Z] LOG: ✅ DB Connected. Worker ready on port 3027
+[2025-04-08T18:52:20.372Z] LOG: ✅ DB Connected. Worker ready on port 3021
+[2025-04-08T18:52:20.373Z] LOG: ✅ DB Connected. Worker ready on port 3022
+[2025-04-08T18:52:20.399Z] LOG: 🚀 Server running on port 3027
+[2025-04-08T18:52:20.414Z] LOG: 🚀 Server running on port 3021
+[2025-04-08T18:52:20.416Z] LOG: 🚀 Server running on port 3022
+[2025-04-08T18:52:20.711Z] LOG: ✅ DB Connected. Worker ready on port 3024
+[2025-04-08T18:52:20.719Z] LOG: 🚀 Server running on port 3024
+[2025-04-08T18:52:20.962Z] LOG: ✅ DB Connected. Worker ready on port 3032
+[2025-04-08T18:52:20.968Z] LOG: 🚀 Server running on port 3032
+[2025-04-08T18:52:21.557Z] LOG: ✅ DB Connected. Worker ready on port 3019
+[2025-04-08T18:52:21.557Z] LOG: ✅ DB Connected. Worker ready on port 3026
+[2025-04-08T18:52:21.568Z] LOG: ✅ DB Connected. Worker ready on port 3028
+[2025-04-08T18:52:21.588Z] LOG: 🚀 Server running on port 3019
+[2025-04-08T18:52:21.591Z] LOG: 🚀 Server running on port 3026
+[2025-04-08T18:52:21.675Z] LOG: 🚀 Server running on port 3028
+[2025-04-08T18:52:23.660Z] LOG: ✅ DB Connected. Worker ready on port 3025
+[2025-04-08T18:52:23.266Z] LOG: ✅ DB Connected. Worker ready on port 3020
+[2025-04-08T18:52:24.160Z] LOG: 🚀 Server running on port 3020
+[2025-04-08T18:52:24.160Z] LOG: 🚀 Server running on port 3025
+[2025-04-08T18:52:29.169Z] LOG: ✅ DB Connected. Worker ready on port 3049
+[2025-04-08T18:52:29.172Z] LOG: ✅ DB Connected. Worker ready on port 3038
+[2025-04-08T18:52:29.187Z] LOG: ✅ DB Connected. Worker ready on port 3029
+[2025-04-08T18:52:29.198Z] LOG: 🚀 Server running on port 3038
+[2025-04-08T18:52:29.198Z] LOG: 🚀 Server running on port 3049
+[2025-04-08T18:52:29.200Z] LOG: 🚀 Server running on port 3029
+[2025-04-08T18:52:29.240Z] LOG: ✅ DB Connected. Worker ready on port 3041
+[2025-04-08T18:52:29.251Z] LOG: 🚀 Server running on port 3041
+[2025-04-08T18:52:29.253Z] LOG: ✅ DB Connected. Worker ready on port 3037
+[2025-04-08T18:52:29.267Z] LOG: 🚀 Server running on port 3037
+[2025-04-08T18:52:29.362Z] LOG: ✅ DB Connected. Worker ready on port 3030
+[2025-04-08T18:52:29.375Z] LOG: 🚀 Server running on port 3030
+[2025-04-08T18:52:29.398Z] LOG: ✅ DB Connected. Worker ready on port 3036
+[2025-04-08T18:52:29.414Z] LOG: 🚀 Server running on port 3036
+[2025-04-08T18:52:29.571Z] LOG: ✅ DB Connected. Worker ready on port 3033
+[2025-04-08T18:52:29.572Z] LOG: ✅ DB Connected. Worker ready on port 3047
+[2025-04-08T18:52:29.586Z] LOG: 🚀 Server running on port 3047
+[2025-04-08T18:52:29.588Z] LOG: 🚀 Server running on port 3033
+[2025-04-08T18:52:29.699Z] LOG: ✅ DB Connected. Worker ready on port 3034
+[2025-04-08T18:52:29.706Z] LOG: 🚀 Server running on port 3034
+[2025-04-08T18:52:29.764Z] LOG: ✅ DB Connected. Worker ready on port 3035
+[2025-04-08T18:52:29.774Z] LOG: ✅ DB Connected. Worker ready on port 3031
+[2025-04-08T18:52:29.780Z] LOG: 🚀 Server running on port 3035
+[2025-04-08T18:52:29.788Z] LOG: 🚀 Server running on port 3031
+[2025-04-08T18:52:29.806Z] LOG: ✅ DB Connected. Worker ready on port 3044
+[2025-04-08T18:52:29.811Z] LOG: ✅ DB Connected. Worker ready on port 3042
+[2025-04-08T18:52:29.815Z] LOG: 🚀 Server running on port 3044
+[2025-04-08T18:52:29.815Z] LOG: ✅ DB Connected. Worker ready on port 3048
+[2025-04-08T18:52:29.823Z] LOG: 🚀 Server running on port 3042
+[2025-04-08T18:52:29.825Z] LOG: 🚀 Server running on port 3048
+[2025-04-08T18:52:29.920Z] LOG: ✅ DB Connected. Worker ready on port 3043
+[2025-04-08T18:52:29.927Z] LOG: 🚀 Server running on port 3043
+[2025-04-08T18:52:33.198Z] LOG: ✅ DB Connected. Worker ready on port 3039
+[2025-04-08T18:52:33.201Z] LOG: ✅ DB Connected. Worker ready on port 3045
+[2025-04-08T18:52:33.205Z] LOG: ✅ DB Connected. Worker ready on port 3040
+[2025-04-08T18:52:33.210Z] LOG: 🚀 Server running on port 3039
+[2025-04-08T18:52:33.209Z] LOG: 🚀 Server running on port 3045
+[2025-04-08T18:52:33.216Z] LOG: 🚀 Server running on port 3040
+[2025-04-08T18:52:33.238Z] LOG: ✅ DB Connected. Worker ready on port 3046
+[2025-04-08T18:52:33.248Z] LOG: 🚀 Server running on port 3046
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:52:43.041Z
+⏰ Local Time (IST): 9/4/2025, 12:22:43 am
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 90 ms
+✅ No Errors
+=========================
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:52:47.357Z
+⏰ Local Time (IST): 9/4/2025, 12:22:47 am
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Failed
+🌐 IP Address: 127.0.0.1
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 110 ms
+❌ Error: No user found with ID 001
+=========================
+[2025-04-08T18:57:35.557Z] LOG: 🧠 Primary process started
+[2025-04-08T18:57:35.579Z] LOG: 🧵 Worker forked for port 3000
+[2025-04-08T18:57:35.587Z] LOG: 🧵 Worker forked for port 3001
+[2025-04-08T18:57:35.596Z] LOG: 🧵 Worker forked for port 3002
+[2025-04-08T18:57:35.616Z] LOG: 🧵 Worker forked for port 3003
+[2025-04-08T18:57:35.630Z] LOG: 🧵 Worker forked for port 3004
+[2025-04-08T18:57:35.640Z] LOG: 🧵 Worker forked for port 3005
+[2025-04-08T18:57:35.654Z] LOG: 🧵 Worker forked for port 3006
+[2025-04-08T18:57:35.670Z] LOG: 🧵 Worker forked for port 3007
+[2025-04-08T18:57:35.697Z] LOG: 🧵 Worker forked for port 3008
+[2025-04-08T18:57:35.710Z] LOG: 🧵 Worker forked for port 3009
+[2025-04-08T18:57:35.717Z] LOG: 🧵 Worker forked for port 3010
+[2025-04-08T18:57:35.724Z] LOG: 🧵 Worker forked for port 3011
+[2025-04-08T18:57:35.794Z] LOG: 🧵 Worker forked for port 3012
+[2025-04-08T18:57:35.801Z] LOG: 🧵 Worker forked for port 3013
+[2025-04-08T18:57:35.892Z] LOG: 🧵 Worker forked for port 3014
+[2025-04-08T18:57:35.900Z] LOG: 🧵 Worker forked for port 3015
+[2025-04-08T18:57:35.907Z] LOG: 🧵 Worker forked for port 3016
+[2025-04-08T18:57:35.917Z] LOG: 🧵 Worker forked for port 3017
+[2025-04-08T18:57:35.924Z] LOG: 🧵 Worker forked for port 3018
+[2025-04-08T18:57:35.932Z] LOG: 🧵 Worker forked for port 3019
+[2025-04-08T18:57:35.939Z] LOG: 🧵 Worker forked for port 3020
+[2025-04-08T18:57:35.947Z] LOG: 🧵 Worker forked for port 3021
+[2025-04-08T18:57:36.057Z] LOG: 🧵 Worker forked for port 3022
+[2025-04-08T18:57:36.064Z] LOG: 🧵 Worker forked for port 3023
+[2025-04-08T18:57:36.073Z] LOG: 🧵 Worker forked for port 3024
+[2025-04-08T18:57:36.132Z] LOG: 🧵 Worker forked for port 3025
+[2025-04-08T18:57:36.139Z] LOG: 🧵 Worker forked for port 3026
+[2025-04-08T18:57:36.240Z] LOG: 🧵 Worker forked for port 3027
+[2025-04-08T18:57:36.246Z] LOG: 🧵 Worker forked for port 3028
+[2025-04-08T18:57:36.254Z] LOG: 🧵 Worker forked for port 3029
+[2025-04-08T18:57:36.358Z] LOG: 🧵 Worker forked for port 3030
+[2025-04-08T18:57:36.490Z] LOG: 🧵 Worker forked for port 3031
+[2025-04-08T18:57:36.578Z] LOG: 🧵 Worker forked for port 3032
+[2025-04-08T18:57:36.600Z] LOG: 🧵 Worker forked for port 3033
+[2025-04-08T18:57:36.703Z] LOG: 🧵 Worker forked for port 3034
+[2025-04-08T18:57:36.712Z] LOG: 🧵 Worker forked for port 3035
+[2025-04-08T18:57:36.833Z] LOG: 🧵 Worker forked for port 3036
+[2025-04-08T18:57:37.011Z] LOG: 🧵 Worker forked for port 3037
+[2025-04-08T18:57:37.037Z] LOG: 🧵 Worker forked for port 3038
+[2025-04-08T18:57:37.216Z] LOG: 🧵 Worker forked for port 3039
+[2025-04-08T18:57:37.223Z] LOG: 🧵 Worker forked for port 3040
+[2025-04-08T18:57:37.235Z] LOG: 🧵 Worker forked for port 3041
+[2025-04-08T18:57:37.245Z] LOG: 🧵 Worker forked for port 3042
+[2025-04-08T18:57:37.592Z] LOG: 🧵 Worker forked for port 3043
+[2025-04-08T18:57:37.673Z] LOG: 🧵 Worker forked for port 3044
+[2025-04-08T18:57:37.769Z] LOG: 🧵 Worker forked for port 3045
+[2025-04-08T18:57:37.925Z] LOG: 🧵 Worker forked for port 3046
+[2025-04-08T18:57:38.275Z] LOG: 🧵 Worker forked for port 3047
+[2025-04-08T18:57:38.283Z] LOG: 🧵 Worker forked for port 3048
+[2025-04-08T18:57:38.296Z] LOG: 🧵 Worker forked for port 3049
+[2025-04-08T18:57:38.514Z] LOG: 🔁 Load balancer running on port 8000
+[2025-04-08T18:57:38.802Z] LOG: ✅ Active worker ports: 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049
+[2025-04-08T18:57:39.999Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.010Z] LOG: 📦 Params: []
+[2025-04-08T18:57:40.045Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.052Z] LOG: 📦 Params: []
+[2025-04-08T18:57:40.284Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.285Z] LOG: ✅ DB Connected. Worker ready on port 3001
+[2025-04-08T18:57:40.290Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.291Z] LOG: 🚀 Server running on port 3001
+[2025-04-08T18:57:40.294Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.302Z] LOG: 📦 Params: []
+[2025-04-08T18:57:40.303Z] LOG: 📦 Params: []
+[2025-04-08T18:57:40.302Z] LOG: 📦 Params: []
+[2025-04-08T18:57:40.320Z] LOG: ✅ DB Connected. Worker ready on port 3003
+[2025-04-08T18:57:40.326Z] LOG: 🚀 Server running on port 3003
+[2025-04-08T18:57:40.331Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.545Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.548Z] LOG: 📦 Params: []
+[2025-04-08T18:57:40.746Z] LOG: ✅ DB Connected. Worker ready on port 3007
+[2025-04-08T18:57:40.752Z] LOG: 🚀 Server running on port 3007
+[2025-04-08T18:57:40.778Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.781Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.792Z] LOG: 📦 Params: []
+[2025-04-08T18:57:40.805Z] LOG: ✅ DB Connected. Worker ready on port 3005
+[2025-04-08T18:57:40.806Z] LOG: 📦 Params: []
+[2025-04-08T18:57:40.810Z] LOG: 🚀 Server running on port 3005
+[2025-04-08T18:57:40.862Z] LOG: ✅ DB Connected. Worker ready on port 3002
+[2025-04-08T18:57:40.869Z] LOG: 🚀 Server running on port 3002
+[2025-04-08T18:57:40.880Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:40.889Z] LOG: ✅ DB Connected. Worker ready on port 3004
+[2025-04-08T18:57:40.895Z] LOG: 🚀 Server running on port 3004
+[2025-04-08T18:57:41.078Z] LOG: ✅ DB Connected. Worker ready on port 3021
+[2025-04-08T18:57:41.083Z] LOG: 🚀 Server running on port 3021
+[2025-04-08T18:57:41.234Z] LOG: ✅ DB Connected. Worker ready on port 3010
+[2025-04-08T18:57:41.239Z] LOG: 🚀 Server running on port 3010
+[2025-04-08T18:57:41.557Z] LOG: 📦 Params: []
+[2025-04-08T18:57:41.921Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:41.926Z] LOG: 📦 Params: []
+[2025-04-08T18:57:42.147Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:42.148Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:42.149Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:42.150Z] LOG: 📦 Params: []
+[2025-04-08T18:57:42.152Z] LOG: 📦 Params: []
+[2025-04-08T18:57:42.153Z] LOG: 📦 Params: []
+[2025-04-08T18:57:42.155Z] LOG: 📦 Params: []
+[2025-04-08T18:57:42.280Z] LOG: ✅ DB Connected. Worker ready on port 3006
+[2025-04-08T18:57:42.283Z] LOG: ✅ DB Connected. Worker ready on port 3009
+[2025-04-08T18:57:42.286Z] LOG: 🚀 Server running on port 3006
+[2025-04-08T18:57:42.289Z] LOG: 🚀 Server running on port 3009
+[2025-04-08T18:57:42.383Z] LOG: ✅ DB Connected. Worker ready on port 3028
+[2025-04-08T18:57:42.388Z] LOG: 🚀 Server running on port 3028
+[2025-04-08T18:57:42.635Z] LOG: ✅ DB Connected. Worker ready on port 3019
+[2025-04-08T18:57:42.642Z] LOG: 🚀 Server running on port 3019
+[2025-04-08T18:57:42.744Z] LOG: ✅ DB Connected. Worker ready on port 3022
+[2025-04-08T18:57:42.749Z] LOG: 🚀 Server running on port 3022
+[2025-04-08T18:57:42.880Z] LOG: ✅ DB Connected. Worker ready on port 3000
+[2025-04-08T18:57:42.944Z] LOG: 🚀 Server running on port 3000
+[2025-04-08T18:57:43.826Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:43.831Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:43.842Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:43.845Z] LOG: 📦 Params: []
+[2025-04-08T18:57:43.844Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:43.848Z] LOG: 📦 Params: []
+[2025-04-08T18:57:43.917Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:44.128Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:44.165Z] LOG: ✅ DB Connected. Worker ready on port 3014
+[2025-04-08T18:57:44.166Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:44.169Z] LOG: ✅ DB Connected. Worker ready on port 3016
+[2025-04-08T18:57:44.248Z] LOG: 🚀 Server running on port 3016
+[2025-04-08T18:57:44.247Z] LOG: 🚀 Server running on port 3014
+[2025-04-08T18:57:44.635Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:44.762Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:44.781Z] LOG: 📦 Params: []
+[2025-04-08T18:57:44.782Z] LOG: 📦 Params: []
+[2025-04-08T18:57:44.782Z] LOG: 📦 Params: []
+[2025-04-08T18:57:44.784Z] LOG: 📦 Params: []
+[2025-04-08T18:57:45.014Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:45.022Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:45.080Z] LOG: ✅ DB Connected. Worker ready on port 3008
+[2025-04-08T18:57:45.083Z] LOG: ✅ DB Connected. Worker ready on port 3024
+[2025-04-08T18:57:45.085Z] LOG: ✅ DB Connected. Worker ready on port 3034
+[2025-04-08T18:57:45.123Z] LOG: ✅ DB Connected. Worker ready on port 3013
+[2025-04-08T18:57:45.206Z] LOG: 🚀 Server running on port 3008
+[2025-04-08T18:57:45.210Z] LOG: 🚀 Server running on port 3024
+[2025-04-08T18:57:45.220Z] LOG: 🚀 Server running on port 3034
+[2025-04-08T18:57:45.238Z] LOG: 📦 Params: []
+[2025-04-08T18:57:45.619Z] LOG: 🚀 Server running on port 3013
+[2025-04-08T18:57:45.654Z] LOG: 📦 Params: []
+[2025-04-08T18:57:45.860Z] LOG: 📦 Params: []
+[2025-04-08T18:57:46.239Z] LOG: 📦 Params: []
+[2025-04-08T18:57:46.339Z] LOG: 📦 Params: []
+[2025-04-08T18:57:50.538Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.614Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.616Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.620Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.639Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.647Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.648Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.668Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.714Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:50.756Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:51.046Z] LOG: ✅ DB Connected. Worker ready on port 3015
+[2025-04-08T18:57:51.056Z] LOG: ✅ DB Connected. Worker ready on port 3020
+[2025-04-08T18:57:51.057Z] LOG: ✅ DB Connected. Worker ready on port 3011
+[2025-04-08T18:57:51.058Z] LOG: ✅ DB Connected. Worker ready on port 3012
+[2025-04-08T18:57:51.059Z] LOG: ✅ DB Connected. Worker ready on port 3032
+[2025-04-08T18:57:51.083Z] LOG: 🚀 Server running on port 3015
+[2025-04-08T18:57:51.083Z] LOG: 🚀 Server running on port 3020
+[2025-04-08T18:57:51.092Z] LOG: 🚀 Server running on port 3011
+[2025-04-08T18:57:51.099Z] LOG: 🚀 Server running on port 3012
+[2025-04-08T18:57:51.116Z] LOG: 🚀 Server running on port 3032
+[2025-04-08T18:57:51.150Z] LOG: 📦 Params: []
+[2025-04-08T18:57:51.214Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:51.324Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:51.401Z] LOG: ✅ DB Connected. Worker ready on port 3037
+[2025-04-08T18:57:51.410Z] LOG: 🚀 Server running on port 3037
+[2025-04-08T18:57:51.498Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:51.503Z] LOG: 📦 Params: []
+[2025-04-08T18:57:51.728Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:51.760Z] LOG: ✅ DB Connected. Worker ready on port 3043
+[2025-04-08T18:57:51.766Z] LOG: 🚀 Server running on port 3043
+[2025-04-08T18:57:51.814Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:51.946Z] LOG: 📦 Params: []
+[2025-04-08T18:57:51.967Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:52.115Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:52.145Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.281Z] LOG: ✅ DB Connected. Worker ready on port 3041
+[2025-04-08T18:57:52.287Z] LOG: 🚀 Server running on port 3041
+[2025-04-08T18:57:52.482Z] LOG: ✅ DB Connected. Worker ready on port 3033
+[2025-04-08T18:57:52.489Z] LOG: 🚀 Server running on port 3033
+[2025-04-08T18:57:52.556Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:52.606Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.611Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.614Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.618Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.627Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.645Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.648Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.598Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.731Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.733Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.734Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.743Z] LOG: 📦 Params: []
+[2025-04-08T18:57:52.927Z] LOG: ✅ DB Connected. Worker ready on port 3039
+[2025-04-08T18:57:52.934Z] LOG: 🚀 Server running on port 3039
+[2025-04-08T18:57:53.045Z] LOG: 📦 Params: []
+[2025-04-08T18:57:53.110Z] LOG: ✅ DB Connected. Worker ready on port 3027
+[2025-04-08T18:57:53.113Z] LOG: ✅ DB Connected. Worker ready on port 3026
+[2025-04-08T18:57:53.112Z] LOG: ✅ DB Connected. Worker ready on port 3018
+[2025-04-08T18:57:53.117Z] LOG: 🚀 Server running on port 3027
+[2025-04-08T18:57:53.120Z] LOG: 🚀 Server running on port 3026
+[2025-04-08T18:57:53.122Z] LOG: 🚀 Server running on port 3018
+[2025-04-08T18:57:53.171Z] LOG: ✅ DB Connected. Worker ready on port 3025
+[2025-04-08T18:57:53.171Z] LOG: ✅ DB Connected. Worker ready on port 3040
+[2025-04-08T18:57:53.177Z] LOG: 🚀 Server running on port 3025
+[2025-04-08T18:57:53.177Z] LOG: 🚀 Server running on port 3040
+[2025-04-08T18:57:53.450Z] LOG: ✅ DB Connected. Worker ready on port 3017
+[2025-04-08T18:57:53.455Z] LOG: ✅ DB Connected. Worker ready on port 3036
+[2025-04-08T18:57:53.465Z] LOG: 🚀 Server running on port 3017
+[2025-04-08T18:57:53.471Z] LOG: 🚀 Server running on port 3036
+[2025-04-08T18:57:53.515Z] LOG: ✅ DB Connected. Worker ready on port 3046
+[2025-04-08T18:57:53.515Z] LOG: ✅ DB Connected. Worker ready on port 3038
+[2025-04-08T18:57:53.522Z] LOG: 🚀 Server running on port 3046
+[2025-04-08T18:57:53.522Z] LOG: 🚀 Server running on port 3038
+[2025-04-08T18:57:53.531Z] LOG: ✅ DB Connected. Worker ready on port 3035
+[2025-04-08T18:57:53.535Z] LOG: ✅ DB Connected. Worker ready on port 3029
+[2025-04-08T18:57:53.537Z] LOG: 🚀 Server running on port 3035
+[2025-04-08T18:57:53.545Z] LOG: 🚀 Server running on port 3029
+[2025-04-08T18:57:53.867Z] LOG: 📦 Params: []
+[2025-04-08T18:57:54.039Z] LOG: ✅ DB Connected. Worker ready on port 3023
+[2025-04-08T18:57:54.045Z] LOG: 🚀 Server running on port 3023
+[2025-04-08T18:57:54.618Z] LOG: ✅ DB Connected. Worker ready on port 3030
+[2025-04-08T18:57:54.626Z] LOG: 🚀 Server running on port 3030
+[2025-04-08T18:57:55.124Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:55.133Z] LOG: 📦 Params: []
+[2025-04-08T18:57:55.175Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:55.181Z] LOG: 📦 Params: []
+[2025-04-08T18:57:55.842Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:55.970Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:55.976Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:56.040Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:57.166Z] LOG: 📦 Params: []
+[2025-04-08T18:57:57.200Z] LOG: 📦 Params: []
+[2025-04-08T18:57:57.209Z] LOG: 📦 Params: []
+[2025-04-08T18:57:57.223Z] LOG: 📦 Params: []
+[2025-04-08T18:57:57.610Z] LOG: ✅ DB Connected. Worker ready on port 3048
+[2025-04-08T18:57:57.621Z] LOG: 🚀 Server running on port 3048
+[2025-04-08T18:57:57.654Z] LOG: ✅ DB Connected. Worker ready on port 3047
+[2025-04-08T18:57:57.653Z] LOG: ✅ DB Connected. Worker ready on port 3031
+[2025-04-08T18:57:57.659Z] LOG: ✅ DB Connected. Worker ready on port 3042
+[2025-04-08T18:57:57.667Z] LOG: 🚀 Server running on port 3047
+[2025-04-08T18:57:57.670Z] LOG: 🚀 Server running on port 3031
+[2025-04-08T18:57:57.672Z] LOG: 🚀 Server running on port 3042
+[2025-04-08T18:57:57.691Z] LOG: ✅ DB Connected. Worker ready on port 3045
+[2025-04-08T18:57:57.697Z] LOG: ✅ DB Connected. Worker ready on port 3044
+[2025-04-08T18:57:57.703Z] LOG: 🚀 Server running on port 3045
+[2025-04-08T18:57:57.708Z] LOG: 🚀 Server running on port 3044
+[2025-04-08T18:57:58.563Z] LOG: 📥 SQL: SELECT 1
+[2025-04-08T18:57:58.630Z] LOG: 📦 Params: []
+[2025-04-08T18:57:58.986Z] LOG: ✅ DB Connected. Worker ready on port 3049
+[2025-04-08T18:57:58.993Z] LOG: 🚀 Server running on port 3049
+[2025-04-08T18:58:17.613Z] LOG: 📥 SQL: SELECT id, fullname, email, mobile FROM TESTAPI
+[2025-04-08T18:58:17.616Z] LOG: 📦 Params: []
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:58:17.724Z
+⏰ Local Time (IST): 9/4/2025, 12:28:17 am
+🔹 Action: Fetch All Users
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI
+✅ Status: Success
+🌐 IP Address: 127.0.0.1
+📥 Port: 3000
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 111 ms
+✅ No Errors
+=========================
+[2025-04-08T18:58:23.175Z] LOG: 📥 SQL: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+[2025-04-08T18:58:23.178Z] LOG: 📦 Params: []
+
+=========================
+📅 Timestamp (UTC): 2025-04-08T18:58:23.282Z
+⏰ Local Time (IST): 9/4/2025, 12:28:23 am
+🔹 Action: Fetch User ID 001
+🔍 Query: SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id
+✅ Status: Failed
+🌐 IP Address: 127.0.0.1
+📥 Port: 3001
+💻 Device ID: PostmanRuntime/7.43.3
+⏱ Query Time: 109 ms
+❌ Error: No records for ID 001
+=========================

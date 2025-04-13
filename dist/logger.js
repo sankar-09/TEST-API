@@ -9,11 +9,9 @@ const geoip_lite_1 = __importDefault(require("geoip-lite"));
 // Enable hourly logging
 const useHourlyLogs = false;
 const baseLogDir = path_1.default.join(process.cwd(), "LogFiles");
-// Ensure base directory exists
 if (!fs_1.default.existsSync(baseLogDir)) {
     fs_1.default.mkdirSync(baseLogDir, { recursive: true });
 }
-// Create folder paths for daily and hourly logs
 const getLogFilePath = () => {
     const now = new Date();
     const date = now.toISOString().split("T")[0];
@@ -36,20 +34,25 @@ const getRequestDetails = (req) => {
         connection?.remoteAddress ||
         socket?.remoteAddress ||
         "Unknown";
+    // Normalize localhost
     if (ip === "::1" || ip === "127.0.0.1")
-        ip = "127.0.0.1 (Localhost)";
-    const geo = geoip_lite_1.default.lookup(ip || "") || { city: "Unknown", country: "Unknown" };
+        ip = "127.0.0.1";
+    const geo = ip.includes("127.0.0.1")
+        ? { city: "Localhost", country: "Dev Machine" }
+        : geoip_lite_1.default.lookup(ip || "") || { city: "Unknown", country: "Unknown" };
     const location = `${geo.city}, ${geo.country}`;
     const port = socket?.localPort || connection?.localPort || process.env.PORT || "Unknown";
     const deviceId = headers["user-agent"] || "Unknown Device";
     return { ip, location, port, deviceId };
 };
-function logTransaction(action, query, status, error = null, req) {
+function logTransaction(action, query, status, error = null, req, durationMs) {
     const { ip, location, port, deviceId } = getRequestDetails(req);
     const now = new Date();
     const isoTimestamp = now.toISOString();
     const localTime = now.toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
     const logFilePath = getLogFilePath();
+    const durationLine = durationMs !== undefined ? `⏱ Query Time: ${durationMs} ms` : "";
+    // 📍 Location: ${location}
     const logContent = `
 =========================
 📅 Timestamp (UTC): ${isoTimestamp}
@@ -58,14 +61,13 @@ function logTransaction(action, query, status, error = null, req) {
 🔍 Query: ${query}
 ✅ Status: ${status}
 🌐 IP Address: ${ip}
-📍 Location: ${location}
 📥 Port: ${port}
 💻 Device ID: ${deviceId}
+${durationLine}
 ${error ? `❌ Error: ${typeof error === "string" ? error : error.message}` : "✅ No Errors"}
 =========================\n`;
     fs_1.default.appendFileSync(logFilePath, logContent, "utf8");
 }
-// Capture console logs into log files too
 function captureConsoleLogs() {
     const originalLog = console.log;
     const originalError = console.error;
@@ -76,12 +78,16 @@ function captureConsoleLogs() {
         fs_1.default.appendFileSync(logFilePath, logMessage, "utf8");
     };
     console.log = (...args) => {
-        const message = args.map(arg => typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)).join(" ");
+        const message = args
+            .map(arg => (typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)))
+            .join(" ");
         writeToLogFile(message, "LOG");
         originalLog(...args);
     };
     console.error = (...args) => {
-        const message = args.map(arg => typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)).join(" ");
+        const message = args
+            .map(arg => (typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)))
+            .join(" ");
         writeToLogFile(message, "ERROR");
         originalError(...args);
     };
