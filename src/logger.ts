@@ -8,12 +8,10 @@ const useHourlyLogs: boolean = false;
 
 const baseLogDir = path.join(process.cwd(), "LogFiles");
 
-// Ensure base directory exists
 if (!fs.existsSync(baseLogDir)) {
   fs.mkdirSync(baseLogDir, { recursive: true });
 }
 
-// Create folder paths for daily and hourly logs
 const getLogFilePath = (): string => {
   const now = new Date();
   const date = now.toISOString().split("T")[0];
@@ -41,9 +39,13 @@ const getRequestDetails = (req?: Request) => {
     socket?.remoteAddress ||
     "Unknown";
 
-  if (ip === "::1" || ip === "127.0.0.1") ip = "127.0.0.1 (Localhost)";
+  // Normalize localhost
+  if (ip === "::1" || ip === "127.0.0.1") ip = "127.0.0.1";
 
-  const geo = geoip.lookup(ip || "") || { city: "Unknown", country: "Unknown" };
+  const geo = ip.includes("127.0.0.1")
+    ? { city: "Localhost", country: "Dev Machine" }
+    : geoip.lookup(ip || "") || { city: "Unknown", country: "Unknown" };
+
   const location = `${geo.city}, ${geo.country}`;
   const port = socket?.localPort || connection?.localPort || process.env.PORT || "Unknown";
   const deviceId = headers["user-agent"] || "Unknown Device";
@@ -56,7 +58,8 @@ function logTransaction(
   query: string,
   status: "Success" | "Failed",
   error: Error | string | null = null,
-  req?: Request
+  req?: Request,
+  durationMs?: number
 ): void {
   const { ip, location, port, deviceId } = getRequestDetails(req);
   const now = new Date();
@@ -64,6 +67,8 @@ function logTransaction(
   const localTime = now.toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
 
   const logFilePath = getLogFilePath();
+  const durationLine = durationMs !== undefined ? `⏱ Query Time: ${durationMs} ms` : "";
+  // 📍 Location: ${location}
   const logContent = `
 =========================
 📅 Timestamp (UTC): ${isoTimestamp}
@@ -72,16 +77,15 @@ function logTransaction(
 🔍 Query: ${query}
 ✅ Status: ${status}
 🌐 IP Address: ${ip}
-📍 Location: ${location}
 📥 Port: ${port}
 💻 Device ID: ${deviceId}
+${durationLine}
 ${error ? `❌ Error: ${typeof error === "string" ? error : error.message}` : "✅ No Errors"}
 =========================\n`;
 
   fs.appendFileSync(logFilePath, logContent, "utf8");
 }
 
-// Capture console logs into log files too
 function captureConsoleLogs(): void {
   const originalLog = console.log;
   const originalError = console.error;
@@ -94,13 +98,17 @@ function captureConsoleLogs(): void {
   };
 
   console.log = (...args: any[]) => {
-    const message = args.map(arg => typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)).join(" ");
+    const message = args
+      .map(arg => (typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)))
+      .join(" ");
     writeToLogFile(message, "LOG");
     originalLog(...args);
   };
 
   console.error = (...args: any[]) => {
-    const message = args.map(arg => typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)).join(" ");
+    const message = args
+      .map(arg => (typeof arg === "object" ? JSON.stringify(arg, null, 2) : String(arg)))
+      .join(" ");
     writeToLogFile(message, "ERROR");
     originalError(...args);
   };

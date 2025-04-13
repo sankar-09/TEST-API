@@ -1,6 +1,12 @@
-import mysql, { Pool } from "mysql2/promise";
+import mysql, {
+  Pool,
+  PoolConnection,
+  RowDataPacket,
+  ResultSetHeader,
+  FieldPacket,
+} from "mysql2/promise";
 
-const myPool: Pool = mysql.createPool({
+const pool: Pool = mysql.createPool({
   // host: "localhost",
   // user: "root",
   // password: "SSR2002#cc99",
@@ -10,9 +16,26 @@ const myPool: Pool = mysql.createPool({
   password: "Locate@2025",
   database: "u303037170_projectadmin",
   waitForConnections: true,
-  namedPlaceholders: true,
   connectionLimit: 10,
   queueLimit: 0,
 });
 
-export default myPool;
+async function execute<
+  T extends RowDataPacket[] | ResultSetHeader = RowDataPacket[] | ResultSetHeader
+>(
+  sql: string,
+  params: any[] = []
+): Promise<[T, FieldPacket[]]> {
+  console.log("📥 SQL:", sql);
+  console.log("📦 Params:", params);
+  return pool.execute<T>(sql, params);
+}
+
+const db = {
+  query: execute,
+  execute,
+  getPool: () => pool,
+  getConnection: () => pool.getConnection(),
+};
+
+export default db;

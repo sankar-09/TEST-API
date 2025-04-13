@@ -3,113 +3,128 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.deleteUserById = exports.EditUser = exports.addUser = exports.getUserById = exports.getAllUsers = void 0;
+exports.EditService = exports.addService = exports.getServiceById = exports.getAllServices = void 0;
 const db_1 = __importDefault(require("../db"));
 const logger_1 = __importDefault(require("../logger"));
 const transactionService_1 = __importDefault(require("../utils/transactionService"));
-// GET ALL USERS
-const getAllUsers = async (req) => {
-    const query = "SELECT id, fullname, email, mobile FROM TESTAPI";
+const handleError = (action, query, err, req) => {
+    const error = err instanceof Error ? err : new Error("Unknown error");
+    // Custom logging for ECONNRESET
+    if (err?.code === "ECONNRESET") {
+        console.error("ECONNRESET detected. Connection was reset by peer.");
+    }
+    (0, logger_1.default)(action, query, "Failed", error, req);
+    throw error;
+};
+const shouldLock = (req) => req?.query?.lock === "true";
+const formatId = (num) => num.toString().padStart(3, "0");
+// GET ALL SERVICES
+const getAllServices = async (req) => {
+    const query = "SELECT CITY_ID, NAME, DESCRIPTION, STATUS, IMAGE_URL FROM SERVICES";
+    const start = Date.now();
     try {
         const [records] = await db_1.default.execute(query);
-        (0, logger_1.default)("Fetch All Users", query, "Success", null, req);
+        (0, logger_1.default)("Fetch All Services", query, "Success", null, req, Date.now() - start);
         return records;
     }
     catch (err) {
-        const error = err instanceof Error ? err : new Error("Unknown error");
-        (0, logger_1.default)("Fetch All Users", query, "Failed", error, req);
-        throw error;
+        return handleError("Fetch All Services", query, err, req);
     }
 };
-exports.getAllUsers = getAllUsers;
-// GET USER BY ID
-const getUserById = async (id, req) => {
-    const query = "SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id";
+exports.getAllServices = getAllServices;
+// GET SERVICE BY ID
+const getServiceById = async (id, req) => {
+    const lock = shouldLock(req) ? " FOR UPDATE" : "";
+    const query = `SELECT CITY_ID, NAME, DESCRIPTION, STATUS, IMAGE_URL FROM SERVICES WHERE ID = ?${lock}`;
+    const start = Date.now();
     try {
-        const [record] = await db_1.default.execute(query, { id });
-        (0, logger_1.default)(`Fetch User ID ${id}`, query, "Success", null, req);
-        return Array.isArray(record) && record.length > 0 ? record[0] : null;
+        const [records] = await db_1.default.execute(query, [id]);
+        const found = Array.isArray(records) && records.length > 0;
+        (0, logger_1.default)(`Fetch Service ID ${id}`, query, found ? "Success" : "Failed", found ? null : new Error(`No records for ID ${id}`), req, Date.now() - start);
+        return found ? records[0] : null;
     }
     catch (err) {
-        const error = err instanceof Error ? err : new Error("Unknown error");
-        (0, logger_1.default)(`Fetch User ID ${id}`, query, "Failed", error, req);
-        throw error;
+        return handleError(`Fetch Service ID ${id}`, query, err, req);
     }
 };
-exports.getUserById = getUserById;
-// ADD USER
-const addUser = async (obj, req) => {
+exports.getServiceById = getServiceById;
+// ADD SERVICE
+const addService = async (obj, req) => {
+    const trx = new transactionService_1.default();
     const query = `
-    INSERT INTO TESTAPI (id, fullname, email, mobile)
-    VALUES (@id, @fullname, @email, @mobile)
+    INSERT INTO SERVICES (ID, CITY_ID, NAME, DESCRIPTION, STATUS, IMAGE_URL, CREATED_AT, CREATED_BY)
+    VALUES (?, ?, ?, ?, ?, ?, NOW(), ?)
   `;
-    try {
-        const [result] = await db_1.default.execute(query, obj);
-        (0, logger_1.default)("Insert User", query, "Success", null, req);
-        return result;
-    }
-    catch (err) {
-        const error = err instanceof Error ? err : new Error("Unknown error");
-        (0, logger_1.default)("Insert User", query, "Failed", error, req);
-        throw error;
-    }
-};
-exports.addUser = addUser;
-// EDIT USER (WITH TRANSACTION SERVICE)
-const EditUser = async (obj, id, req) => {
-    const trx = new transactionService_1.default();
+    const start = Date.now();
     try {
         const conn = await trx.start();
-        const checkQuery = "SELECT id FROM TESTAPI WHERE id = @id FOR UPDATE";
-        const [existing] = await conn.query(checkQuery, { id });
-        if (existing.length === 0) {
-            throw new Error("User not found");
+        // Generate new ID
+        const [rows] = await conn.query("SELECT MAX(CAST(ID AS UNSIGNED)) as maxId FROM SERVICES");
+        const currentMax = rows[0].maxId || 0;
+        const nextId = formatId(currentMax + 1);
+        const [result] = await conn.query(query, [
+            nextId,
+            obj.cityid,
+            obj.servname,
+            obj.servdesc,
+            obj.status,
+            obj.imgurl,
+            "USR001",
+        ]);
+        try {
+            await trx.commit();
         }
-        const query = `
-      UPDATE TESTAPI
-      SET fullname = @fullname, email = @email, mobile = @mobile
-      WHERE id = @id
-    `;
-        const [result] = await conn.query(query, { ...obj, id });
-        await trx.commit();
-        (0, logger_1.default)(`Update User ID ${id}`, query, "Success", null, req);
-        return result;
+        catch { }
+        (0, logger_1.default)("Insert Service", query, "Success", null, req, Date.now() - start);
+        return {
+            insertId: parseInt(nextId, 10),
+            affectedRows: result.affectedRows,
+        };
     }
     catch (err) {
-        await trx.rollback();
-        const error = err instanceof Error ? err : new Error("Unknown error");
-        const query = `
-      UPDATE TESTAPI
-      SET fullname = @fullname, email = @email, mobile = @mobile
-      WHERE id = @id
-    `;
-        (0, logger_1.default)(`Update User ID ${id}`, query, "Failed", error, req);
-        throw error;
+        try {
+            await trx.rollback();
+        }
+        catch { }
+        return handleError("Insert Service", query, err, req);
     }
 };
-exports.EditUser = EditUser;
-// DELETE USER (WITH TRANSACTION SERVICE)
-const deleteUserById = async (id, req) => {
+exports.addService = addService;
+// EDIT SERVICE
+const EditService = async (obj, id, req) => {
     const trx = new transactionService_1.default();
+    const lock = shouldLock(req) ? " FOR UPDATE" : "";
+    const checkQuery = `SELECT ID FROM SERVICES WHERE ID = ?${lock}`;
+    const updateQuery = `
+    UPDATE SERVICES
+    SET CITY_ID = ?, NAME = ?, DESCRIPTION = ?, STATUS = ?, IMAGE_URL = ?, UPDATED_AT = NOW(), UPDATED_BY = ?
+    WHERE ID = ?
+  `;
+    const start = Date.now();
     try {
         const conn = await trx.start();
-        const checkQuery = "SELECT id FROM TESTAPI WHERE id = @id FOR UPDATE";
-        const [existing] = await conn.query(checkQuery, { id });
+        const [existing] = await conn.query(checkQuery, [id]);
         if (existing.length === 0) {
-            throw new Error("User not found");
+            await trx.rollback().catch(() => { });
+            (0, logger_1.default)(`Update Service ID ${id}`, updateQuery, "Failed", "Service not found", req, Date.now() - start);
+            throw new Error("Service not found");
         }
-        const query = "DELETE FROM TESTAPI WHERE id = @id";
-        const [result] = await conn.query(query, { id });
-        await trx.commit();
-        (0, logger_1.default)(`Delete User ID ${id}`, query, "Success", null, req);
+        const [result] = await conn.query(updateQuery, [
+            obj.cityid,
+            obj.servname,
+            obj.servdesc,
+            obj.status,
+            obj.imgurl,
+            "USR001",
+            id,
+        ]);
+        await trx.commit().catch(() => { });
+        (0, logger_1.default)(`Update Service ID ${id}`, updateQuery, "Success", null, req, Date.now() - start);
         return result;
     }
     catch (err) {
-        await trx.rollback();
-        const error = err instanceof Error ? err : new Error("Unknown error");
-        const query = "DELETE FROM TESTAPI WHERE id = @id";
-        (0, logger_1.default)(`Delete User ID ${id}`, query, "Failed", error, req);
-        throw error;
+        await trx.rollback().catch(() => { });
+        return handleError(`Update Service ID ${id}`, updateQuery, err, req);
     }
 };
-exports.deleteUserById = deleteUserById;
+exports.EditService = EditService;

@@ -6,6 +6,7 @@ import os from "os";
 import UserRoutes from "./controller/controller";
 import db from "./db";
 import logTransaction from "./logger";
+import { Request, Response, NextFunction } from "express";
 
 const CONFIG = {
   basePort: 3000,
@@ -13,6 +14,18 @@ const CONFIG = {
 };
 
 const activePorts = new Set<number>();
+
+// Global error handlers
+process.on("uncaughtException", (err) => {
+  logTransaction("Uncaught Exception", "Process", "Failed", err);
+  console.error("Uncaught Exception: ", err);
+  process.exit(1);
+});
+
+process.on("unhandledRejection", (reason) => {
+  logTransaction("Unhandled Rejection", "Promise", "Failed", reason instanceof Error ? reason : new Error(String(reason)));
+  console.error("Unhandled Rejection: ", reason);
+});
 
 if (cluster.isPrimary) {
   console.log("🧠 Primary process started");
@@ -60,7 +73,7 @@ if (cluster.isPrimary) {
   const port = Number(process.env.PORT) || 3000;
 
   app.use(bodyParser.json());
-  app.use("/api/user", UserRoutes);
+  app.use("/api/service", UserRoutes);
 
   app.get("/debug", (_, res) => {
     res.json({ message: "Debug info", port });
@@ -76,4 +89,10 @@ if (cluster.isPrimary) {
       logTransaction("DB Startup", "SELECT 1", "Failed", err);
       process.exit(1);
     });
+
+  // Express global error handler
+  app.use((err: any, req: Request, res: Response, next: NextFunction) => {
+    logTransaction("Unhandled Express Error", "Middleware", "Failed", err, req);
+    res.status(500).json({ error: "Internal server error", details: err.message || err });
+  });
 }

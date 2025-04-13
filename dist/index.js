@@ -15,6 +15,16 @@ const CONFIG = {
     numberOfWorkers: 50,
 };
 const activePorts = new Set();
+// Global error handlers
+process.on("uncaughtException", (err) => {
+    (0, logger_1.default)("Uncaught Exception", "Process", "Failed", err);
+    console.error("Uncaught Exception: ", err);
+    process.exit(1);
+});
+process.on("unhandledRejection", (reason) => {
+    (0, logger_1.default)("Unhandled Rejection", "Promise", "Failed", reason instanceof Error ? reason : new Error(String(reason)));
+    console.error("Unhandled Rejection: ", reason);
+});
 if (cluster_1.default.isPrimary) {
     console.log("🧠 Primary process started");
     const proxy = http_proxy_1.default.createProxyServer();
@@ -54,7 +64,7 @@ else {
     const app = (0, express_1.default)();
     const port = Number(process.env.PORT) || 3000;
     app.use(body_parser_1.default.json());
-    app.use("/api/user", controller_1.default);
+    app.use("/api/service", controller_1.default);
     app.get("/debug", (_, res) => {
         res.json({ message: "Debug info", port });
     });
@@ -67,5 +77,10 @@ else {
         console.error("❌ DB connection failed:", err);
         (0, logger_1.default)("DB Startup", "SELECT 1", "Failed", err);
         process.exit(1);
+    });
+    // Express global error handler
+    app.use((err, req, res, next) => {
+        (0, logger_1.default)("Unhandled Express Error", "Middleware", "Failed", err, req);
+        res.status(500).json({ error: "Internal server error", details: err.message || err });
     });
 }

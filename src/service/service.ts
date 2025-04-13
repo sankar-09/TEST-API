@@ -2,125 +2,164 @@ import db from "../db";
 import logTransaction from "../logger";
 import { Request } from "express";
 import TransactionService from "../utils/transactionService";
+import { ResultSetHeader } from "mysql2";
 
 interface QueryResult {
-  insertId?: number;
-  affectedRows?: number;
+  insertId: number;
+  affectedRows: number;
 }
 
-// GET ALL USERS
-export const getAllUsers = async (req?: Request) => {
-  const query = "SELECT id, fullname, email, mobile FROM TESTAPI";
+const handleError = (
+  action: string,
+  query: string,
+  err: unknown,
+  req?: Request
+): never => {
+  const error = err instanceof Error ? err : new Error("Unknown error");
+
+  // Custom logging for ECONNRESET
+  if ((err as any)?.code === "ECONNRESET") {
+    console.error("ECONNRESET detected. Connection was reset by peer.");
+  }
+
+  logTransaction(action, query, "Failed", error, req);
+  throw error;
+};
+
+const shouldLock = (req?: Request): boolean => req?.query?.lock === "true";
+
+const formatId = (num: number): string => num.toString().padStart(3, "0");
+
+// GET ALL SERVICES
+export const getAllServices = async (req?: Request) => {
+  const query = "SELECT CITY_ID, NAME, DESCRIPTION, STATUS, IMAGE_URL FROM SERVICES";
+  const start = Date.now();
   try {
     const [records] = await db.execute(query);
-    logTransaction("Fetch All Users", query, "Success", null, req);
+    logTransaction("Fetch All Services", query, "Success", null, req, Date.now() - start);
     return records;
-  } catch (err: unknown) {
-    const error = err instanceof Error ? err : new Error("Unknown error");
-    logTransaction("Fetch All Users", query, "Failed", error, req);
-    throw error;
+  } catch (err) {
+    return handleError("Fetch All Services", query, err, req);
   }
 };
 
-// GET USER BY ID
-export const getUserById = async (id: string, req?: Request) => {
-  const query = "SELECT id, fullname, email, mobile FROM TESTAPI WHERE id = @id";
+// GET SERVICE BY ID
+export const getServiceById = async (id: string, req?: Request) => {
+  const lock = shouldLock(req) ? " FOR UPDATE" : "";
+  const query = `SELECT CITY_ID, NAME, DESCRIPTION, STATUS, IMAGE_URL FROM SERVICES WHERE ID = ?${lock}`;
+  const start = Date.now();
   try {
-    const [record] = await db.execute(query, { id });
-    logTransaction(`Fetch User ID ${id}`, query, "Success", null, req);
-    return Array.isArray(record) && record.length > 0 ? record[0] : null;
-  } catch (err: unknown) {
-    const error = err instanceof Error ? err : new Error("Unknown error");
-    logTransaction(`Fetch User ID ${id}`, query, "Failed", error, req);
-    throw error;
+    const [records] = await db.execute(query, [id]);
+    const found = Array.isArray(records) && records.length > 0;
+    logTransaction(
+      `Fetch Service ID ${id}`,
+      query,
+      found ? "Success" : "Failed",
+      found ? null : new Error(`No records for ID ${id}`),
+      req,
+      Date.now() - start
+    );
+    return found ? records[0] : null;
+  } catch (err) {
+    return handleError(`Fetch Service ID ${id}`, query, err, req);
   }
 };
 
-// ADD USER
-export const addUser = async (
-  obj: { id: string; fullname: string; email: string; mobile: string },
+// ADD SERVICE
+export const addService = async (
+  obj: { cityid: string; servname: string; servdesc: string; status: string; imgurl: string },
   req?: Request
 ): Promise<QueryResult> => {
+  const trx = new TransactionService();
   const query = `
-    INSERT INTO TESTAPI (id, fullname, email, mobile)
-    VALUES (@id, @fullname, @email, @mobile)
+    INSERT INTO SERVICES (ID, CITY_ID, NAME, DESCRIPTION, STATUS, IMAGE_URL, CREATED_AT, CREATED_BY)
+    VALUES (?, ?, ?, ?, ?, ?, NOW(), ?)
   `;
+  const start = Date.now();
   try {
-    const [result] = await db.execute(query, obj);
-    logTransaction("Insert User", query, "Success", null, req);
-    return result as QueryResult;
-  } catch (err: unknown) {
-    const error = err instanceof Error ? err : new Error("Unknown error");
-    logTransaction("Insert User", query, "Failed", error, req);
-    throw error;
+    const conn = await trx.start();
+
+    // Generate new ID
+    const [rows] = await conn.query("SELECT MAX(CAST(ID AS UNSIGNED)) as maxId FROM SERVICES");
+    const currentMax = (rows as any)[0].maxId || 0;
+    const nextId = formatId(currentMax + 1);
+
+    const [result] = await conn.query(query, [
+      nextId,
+      obj.cityid,
+      obj.servname,
+      obj.servdesc,
+      obj.status,
+      obj.imgurl,
+      "USR001",
+    ]);
+
+    try {
+      await trx.commit();
+    } catch {}
+
+    logTransaction("Insert Service", query, "Success", null, req, Date.now() - start);
+
+    return {
+      insertId: parseInt(nextId, 10),
+      affectedRows: (result as ResultSetHeader).affectedRows,
+    };
+  } catch (err) {
+    try {
+      await trx.rollback();
+    } catch {}
+    return handleError("Insert Service", query, err, req);
   }
 };
 
-// EDIT USER (WITH TRANSACTION SERVICE)
-export const EditUser = async (
-  obj: { fullname: string; email: string; mobile: string },
+// EDIT SERVICE
+export const EditService = async (
+  obj: { cityid: string; servname: string; servdesc: string; status: string; imgurl: string },
   id: string,
   req?: Request
 ): Promise<QueryResult> => {
   const trx = new TransactionService();
+  const lock = shouldLock(req) ? " FOR UPDATE" : "";
+  const checkQuery = `SELECT ID FROM SERVICES WHERE ID = ?${lock}`;
+  const updateQuery = `
+    UPDATE SERVICES
+    SET CITY_ID = ?, NAME = ?, DESCRIPTION = ?, STATUS = ?, IMAGE_URL = ?, UPDATED_AT = NOW(), UPDATED_BY = ?
+    WHERE ID = ?
+  `;
+  const start = Date.now();
   try {
     const conn = await trx.start();
+    const [existing] = await conn.query(checkQuery, [id]);
 
-    const checkQuery = "SELECT id FROM TESTAPI WHERE id = @id FOR UPDATE";
-    const [existing] = await conn.query(checkQuery, { id });
     if ((existing as any[]).length === 0) {
-      throw new Error("User not found");
+      await trx.rollback().catch(() => {});
+      logTransaction(
+        `Update Service ID ${id}`,
+        updateQuery,
+        "Failed",
+        "Service not found",
+        req,
+        Date.now() - start
+      );
+      throw new Error("Service not found");
     }
 
-    const query = `
-      UPDATE TESTAPI
-      SET fullname = @fullname, email = @email, mobile = @mobile
-      WHERE id = @id
-    `;
-    const [result] = await conn.query(query, { ...obj, id });
+    const [result] = await conn.query(updateQuery, [
+      obj.cityid,
+      obj.servname,
+      obj.servdesc,
+      obj.status,
+      obj.imgurl,
+      "USR001",
+      id,
+    ]);
 
-    await trx.commit();
-    logTransaction(`Update User ID ${id}`, query, "Success", null, req);
+    await trx.commit().catch(() => {});
+    logTransaction(`Update Service ID ${id}`, updateQuery, "Success", null, req, Date.now() - start);
+
     return result as QueryResult;
-  } catch (err: unknown) {
-    await trx.rollback();
-    const error = err instanceof Error ? err : new Error("Unknown error");
-    const query = `
-      UPDATE TESTAPI
-      SET fullname = @fullname, email = @email, mobile = @mobile
-      WHERE id = @id
-    `;
-    logTransaction(`Update User ID ${id}`, query, "Failed", error, req);
-    throw error;
-  }
-};
-
-// DELETE USER (WITH TRANSACTION SERVICE)
-export const deleteUserById = async (
-  id: string,
-  req?: Request
-): Promise<QueryResult> => {
-  const trx = new TransactionService();
-  try {
-    const conn = await trx.start();
-
-    const checkQuery = "SELECT id FROM TESTAPI WHERE id = @id FOR UPDATE";
-    const [existing] = await conn.query(checkQuery, { id });
-    if ((existing as any[]).length === 0) {
-      throw new Error("User not found");
-    }
-
-    const query = "DELETE FROM TESTAPI WHERE id = @id";
-    const [result] = await conn.query(query, { id });
-
-    await trx.commit();
-    logTransaction(`Delete User ID ${id}`, query, "Success", null, req);
-    return result as QueryResult;
-  } catch (err: unknown) {
-    await trx.rollback();
-    const error = err instanceof Error ? err : new Error("Unknown error");
-    const query = "DELETE FROM TESTAPI WHERE id = @id";
-    logTransaction(`Delete User ID ${id}`, query, "Failed", error, req);
-    throw error;
+  } catch (err) {
+    await trx.rollback().catch(() => {});
+    return handleError(`Update Service ID ${id}`, updateQuery, err, req);
   }
 };
